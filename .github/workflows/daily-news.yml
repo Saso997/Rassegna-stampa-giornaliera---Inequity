@@ -1,0 +1,41 @@
+# Questo file dice a GitHub: "esegui lo script ogni mattina e salva il risultato"
+# Va messo nel repository al percorso: .github/workflows/daily-news.yml
+ 
+name: Rassegna stampa giornaliera
+ 
+on:
+  schedule:
+    # 06:00 UTC = circa le 7:00/8:00 in Italia (a seconda dell'ora legale)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Questo permette anche di avviarlo a mano dal sito di GitHub, per fare un test
+ 
+permissions:
+  contents: write  # serve per poter salvare il risultato nel repository
+ 
+jobs:
+  aggiorna-rassegna:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica il codice del repository
+        uses: actions/checkout@v4
+ 
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+ 
+      - name: Installa le librerie necessarie
+        run: pip install feedparser
+ 
+      - name: Genera la rassegna stampa
+        run: python top_news.py
+ 
+      - name: Salva il risultato nel repository
+        run: |
+          git config user.name "Rassegna Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add rassegna_stampa.md
+          git commit -m "Aggiornamento rassegna stampa del $(date +'%Y-%m-%d')" || echo "Nessuna modifica da salvare oggi"
+          git push
+ 
