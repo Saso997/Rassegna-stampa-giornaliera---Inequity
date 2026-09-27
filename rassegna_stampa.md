@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 26/09/2026 alle 06:21 UTC_
+_Generata automaticamente il 27/09/2026 alle 06:21 UTC_
 
 ---
 
-### 1. Iran awaiting response from Trump on proposal to open strait of Hormuz in six days
-- **Fonti che ne parlano:** Al Jazeera, BBC World, Euronews, France24, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz)
+### 1. US president Donald Trump rejects Iranian plan to reopen Strait of Hormuz
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, New York Times World, Politico Europe, The Guardian World
+- **Link:** [Euronews](https://www.euronews.com/2026/09/26/trump-reportedly-rejects-iranian-plan-to-reopen-strait-of-hormuz)
 
-### 2. White House blocks CNN from Air Force One in latest escalation with news media
-- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one)
+### 2. 🔴 Live: Pope Leo celebrates Mass before hundreds of thousands at Concord in central Paris
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), France24, The Guardian World
+- **Link:** [France24](https://www.france24.com/en/europe/20260926-live-more-than-half-a-million-expected-at-pope-s-open-air-mass-in-paris)
 
-### 3. Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – as it happened
-- **Fonti che ne parlano:** Al Jazeera, France24, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates)
+### 3. Brazil's President Lula bans online betting ahead of presidential election
+- **Fonti che ne parlano:** BBC World, France24, The Guardian World
+- **Link:** [France24](https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election)
 
-### 4. 🔴 Live: Yemen's president calls on his people to mobilise against Iran-backed Houthis
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war)
-
-### 5. Iran says it awaits US response on seven-day roadmap to end war
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss)
-
-### 6. TikTok to pay Alabama $100m and limit teenage use in first state settlement
-- **Fonti che ne parlano:** Al Jazeera, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/technology/2026/sep/26/tiktok-alabama-pay-100m-teenage-limits-restrictions)
-
-### 7. OpenAI Agents Hacked Into an Australian Government Website. Who’s Responsible?
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html)
-
-### 8. Pope Leo XIV makes first official Papal visit in France in nearly 20
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss)
-
-### 9. Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss)
-
-### 10. Supreme Court allows Trump to use controversial database to check voter citizenship
-- **Fonti che ne parlano:** BBC World, France24
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss)
-
-### 11. Israeli PM Netanyahu delivers fiery, defiant speech at UN General Assembly
-- **Fonti che ne parlano:** Euronews, The Guardian World
-- **Link:** [Euronews](https://www.euronews.com/2026/09/25/israeli-pm-netanyahu-delivers-fiery-defiant-speech-at-un-general-assembly)
-
-### 12. Internet restricted after fighting breaks out in Ethiopia's Tigray region
+### 4. Thailand: Bangkok flooding triggers disaster declaration
 - **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss)
-
-### 13. Saudi Arabia reports fresh Houthi attacks as France offers military support to protect Yanbu
-- **Fonti che ne parlano:** Euronews, The Guardian World
-- **Link:** [Euronews](https://www.euronews.com/2026/09/25/saudi-arabia-reports-fresh-houthi-attacks-as-france-offers-military-support-to-protect-yan)
-
-### 14. You Get an Eagle, and You Get an Eagle: Xi Accepts Trump’s Go-To Gift
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html)
-
-### 15. Thailand: Bangkok flooding triggers disaster declaration
-- **Fonti che ne parlano:** DW (Deutsche Welle)
 - **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-rdf)
 
-### 16. Saudi coalition says it intercepted Houthi drones and missiles bound for Saudi Arabia
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/09/26/saudi-coalition-says-it-intercepted-houthi-drones-and-missiles-bound-for-saudi-arabia)
+### 5. German, Russian foreign ministers hold rare talks amid rising tensions
+- **Fonti che ne parlano:** Al Jazeera, New York Times World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss)
 
-### 17. ‘The weaker he gets, the more dangerous he gets’: Trump lashes out as his power wanes
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court)
+### 6. Tens of thousands attend right-wing protest over Ceuta migrant crisis
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss)
 
-### 18. OpenAI tools post user images from ChatGPT online
+### 7. Major storm in US north-east knocks out power for 100,000 and floods roads
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us)
+
+### 8. Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions
+- **Fonti che ne parlano:** Al Jazeera, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/09/26/at-least-six-people-killed-in-russian-strikes-on-ukraine-over-last-24-hours)
+
+### 9. White House bars CNN from covering upcoming Trump trip, broadcaster says
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf)
+
+### 10. Germany’s Wadephul meets Russia’s Lavrov amid tensions over ‘escalation’
+- **Fonti che ne parlano:** DW (Deutsche Welle), Politico Europe
+- **Link:** [Politico Europe](https://www.politico.eu/article/germany-russia-johann-wadephul-sergey-lavrov-meeting-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+
+### 11. South Africa: Pair of mass shootings leave dozens dead
 - **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/openai-tools-post-user-images-from-chatgpt-online/a-79440406?maca=en-rss-en-all-1573-rdf)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf)
 
-### 19. CNN removed from Trump press pool, despite judge order to reinstate White House access
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/americas/20260926-cnn-removed-from-trump-press-pool-despite-judge-order-to-reinstate-white-house-access)
+### 12. London’s investment bankers and lawyers make more than £1bn in takeover frenzy
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn)
 
-### 20. How Russia recruits Belarusians for war in Ukraine: Methods and consequences
+### 13. Jovanotti, l’eterno ragazzo compie 60 anni
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cultura/musica/2026/09/12/jovanotti-leterno-ragazzo-compie-60-anni_87cd8ef6-33d5-43f0-87e0-6f3e5c725f3f.html)
+
+### 14. At least 17 killed in South Africa shooting, police hunt for eight suspects
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss)
+
+### 15. Oggi si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html)
+
+### 16. Undercover police officer lied to spycops inquiry about sexual relationship
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/sep/27/undercover-police-officer-lied-spycops-inquiry-sexual-relationship)
+
+### 17. ‘I turbocharged my career then pressed eject’: why couples are getting divorced later
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/news/ng-interactive/2026/sep/27/i-turbocharged-my-career-then-pressed-eject-why-couples-are-getting-divorced-later)
+
+### 18. Latest news bulletin | September 27th, 2026 – Morning
 - **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/09/26/how-russia-recruits-belarusians-for-war-in-ukraine-methods-and-consequences)
+- **Link:** [Euronews](https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-morning)
 
-### 21. ‘Nowhere else to go’: Gaza families shelter in buildings that may collapse
+### 19. Ethiopia’s army promises restraint amid fears of new civil war
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss)
 
-### 22. Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US
+### 20. La democrazia è viva
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/podcast/la_scelta_del_direttore/2026/09/25/la-democrazia-e-viva_45f289d0-03a0-44da-a5dd-b73a0e147886.html)
+
+### 21. AFL grand final breaks TV audience records – as it happened
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb)
+
+### 22. Nor'easter brings flooding as New York and New Jersey declare emergency
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss)
+
+### 23. The Surprising Reasons China Is Skeptical of A.I. Safety Calls
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html)
+
+### 24. Recreational Aerial Craft Become Weapons in Myanmar’s War
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html)
+
+### 25. The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html)
+
+### 26. Detained Tunisian flotilla activists: Worsening health amid family anguish
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss)
 
-### 23. Latest news bulletin | September 26th, 2026 – Morning
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-morning)
-
-### 24. Labour must reunite progressive voters to win the next election, says Lucy Powell
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/2026/sep/26/labour-must-reunite-progressive-voters-to-win-the-next-election-says-lucy-powell)
-
-### 25. Drones could speed up getting defibrillators to people having cardiac arrests, study suggests
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests)
-
-### 26. Vast Casino Secrets leak exposes inner workings of offshore gambling firms
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator)
-
-### 27. The tricky tests awaiting Andy Burnham after Labour conference
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/2026/sep/26/andy-burnham-tricky-labour-conference-budget-eu-oil)
-
-### 28. Schoolchildren without smartphones penalised with higher bus fares
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/money/2026/sep/26/schoolchildren-smartphones-higher-bus-fares-england)
-
-### 29. ‘Let’s tell the truth’: Smithsonian head given standing ovation as he hits back at Trump attacks
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/sep/26/lets-tell-the-truth-smithsonian-head-given-standing-ovation-as-he-hits-back-at-trump-attacks)
-
-### 30. ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?
+### 27. Bangkok declared disaster zone after heavy rains submerge roads
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss)
+
+### 28. Powerful storm batters northeast US, hundreds of flights canceled
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/powerful-storm-batters-northeast-us-hundreds-of-flights-canceled/a-79446676?maca=en-rss-en-all-1573-rdf)
+
+### 29. Four killed in helicopter crash near Montreal
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss)
+
+### 30. Loyalist parade in Northern Ireland given go-ahead as almost 30-year ban overturned
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/2026/sep/26/belfast-court-decision-orange-order-march-garvaghy-road)
