@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 27/09/2026 alle 06:21 UTC_
+_Generata automaticamente il 28/09/2026 alle 06:25 UTC_
 
 ---
 
-### 1. US president Donald Trump rejects Iranian plan to reopen Strait of Hormuz
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, New York Times World, Politico Europe, The Guardian World
-- **Link:** [Euronews](https://www.euronews.com/2026/09/26/trump-reportedly-rejects-iranian-plan-to-reopen-strait-of-hormuz)
+### 1. Gunmen kill at least 27 people in separate mass shootings in South Africa
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews, France24, New York Times World, The Guardian World
+- **Link:** [France24](https://www.france24.com/en/africa/20260927-gunmen-kill-27-people-in-separate-mass-shootings-in-south-africa)
 
-### 2. 🔴 Live: Pope Leo celebrates Mass before hundreds of thousands at Concord in central Paris
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), France24, The Guardian World
-- **Link:** [France24](https://www.france24.com/en/europe/20260926-live-more-than-half-a-million-expected-at-pope-s-open-air-mass-in-paris)
+### 2. Serbian President Aleksandar Vucic resigns to run for prime minister in October elections
+- **Fonti che ne parlano:** Al Jazeera, BBC World, France24
+- **Link:** [France24](https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister)
 
-### 3. Brazil's President Lula bans online betting ahead of presidential election
-- **Fonti che ne parlano:** BBC World, France24, The Guardian World
-- **Link:** [France24](https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election)
+### 3. Serbia’s populist president Aleksandar Vučić resigns to run for prime minister
+- **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister)
 
-### 4. Thailand: Bangkok flooding triggers disaster declaration
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-rdf)
+### 4. 5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html)
 
-### 5. German, Russian foreign ministers hold rare talks amid rising tensions
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss)
+### 5. Switzerland rejects stricter interpretation of its neutrality
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), France24
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss)
 
-### 6. Tens of thousands attend right-wing protest over Ceuta migrant crisis
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss)
+### 6. The endangered wild ponies of Eriskay in the Outer Hebrides – a photo essay
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/artanddesign/2026/sep/28/endangered-wild-ponies-eriskay-outer-hebrides-scotland-photo-essay)
 
-### 7. Major storm in US north-east knocks out power for 100,000 and floods roads
-- **Fonti che ne parlano:** Al Jazeera, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us)
+### 7. Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News
+- **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [Euronews](https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news)
 
-### 8. Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions
+### 8. Russian attacks kill eight in Ukraine after Moscow vows to continue war
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [France24](https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow)
+
+### 9. Ireland team to wear black armbands as players vote to go ahead with Israel game
 - **Fonti che ne parlano:** Al Jazeera, Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/09/26/at-least-six-people-killed-in-russian-strikes-on-ukraine-over-last-24-hours)
+- **Link:** [Euronews](https://www.euronews.com/2026/09/27/ireland-team-to-wear-black-armbands-as-players-vote-to-go-ahead-with-israel-game)
 
-### 9. White House bars CNN from covering upcoming Trump trip, broadcaster says
+### 10. France’s far-right National Rally gains ground in Senate, forms group for first time
+- **Fonti che ne parlano:** France24, The Guardian World
+- **Link:** [France24](https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections)
+
+### 11. Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [France24](https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions)
+
+### 12. Ethiopia’s army chief accuses Egypt and Sudan of backing armed alliance seeking to oust Abiy Ahmed
+- **Fonti che ne parlano:** Euronews, France24
+- **Link:** [Euronews](https://www.euronews.com/2026/09/27/ethiopias-army-chief-accuses-egypt-and-sudan-of-backing-armed-alliance-seeking-to-oust-abi)
+
+### 13. Pope Leo urges healing of ‘deep wounds’ before meeting child sexual abuse survivors in France
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors)
+
+### 14. Nor’easter storm batters US east coast with heavy winds and power outages
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/sep/27/noreaster-storm-east-coast-death-power-outages)
+
+### 15. Pope says 'scourge' of abuse must be rooted out as he visits Lourdes
 - **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss)
 
-### 10. Germany’s Wadephul meets Russia’s Lavrov amid tensions over ‘escalation’
-- **Fonti che ne parlano:** DW (Deutsche Welle), Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/germany-russia-johann-wadephul-sergey-lavrov-meeting-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+### 16. Seven killed, dozens hurt in Saudi airstrike on Yemen market
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
+- **Link:** [Euronews](https://www.euronews.com/video/2026/09/27/seven-killed-dozens-hurt-in-saudi-airstrike-on-yemen-market)
 
-### 11. South Africa: Pair of mass shootings leave dozens dead
+### 17. China sends two giant pandas off to Atlanta zoo after Xi-Trump summit
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/china-sends-two-giant-pandas-off-to-atlanta-zoo-after-xi-trump-summit/a-79447128?maca=en-rss-en-all-1573-rdf)
+
+### 18. Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz
+- **Fonti che ne parlano:** New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz)
+
+### 19. Watch: Madonna and Taylor Swift win big at the MTV VMAs
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss)
+
+### 20. Germany news: Berlin's Left files complaint against Dobrindt
 - **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-news-berlin-s-left-files-complaint-against-dobrindt/live-79453904?maca=en-rss-en-all-1573-rdf)
 
-### 12. London’s investment bankers and lawyers make more than £1bn in takeover frenzy
+### 21. Australia news live: fuel prices rise ahead of interest rate decision; whale carcass prompts shark warnings at Perth beach
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn)
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb)
 
-### 13. Jovanotti, l’eterno ragazzo compie 60 anni
+### 22. Why China Is Requiring Ninth Graders to Read ‘Jane Eyre’
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/09/28/world/asia/china-jane-eyre-required-reading-literature.html)
+
+### 23. Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cultura/musica/2026/09/12/jovanotti-leterno-ragazzo-compie-60-anni_87cd8ef6-33d5-43f0-87e0-6f3e5c725f3f.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html)
 
-### 14. At least 17 killed in South Africa shooting, police hunt for eight suspects
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss)
-
-### 15. Oggi si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html)
-
-### 16. Undercover police officer lied to spycops inquiry about sexual relationship
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/sep/27/undercover-police-officer-lied-spycops-inquiry-sexual-relationship)
-
-### 17. ‘I turbocharged my career then pressed eject’: why couples are getting divorced later
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/news/ng-interactive/2026/sep/27/i-turbocharged-my-career-then-pressed-eject-why-couples-are-getting-divorced-later)
-
-### 18. Latest news bulletin | September 27th, 2026 – Morning
+### 24. Pope joins pilgrims in Lourdes candlelit rosary as 150,000 attend mass
 - **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-morning)
+- **Link:** [Euronews](https://www.euronews.com/video/2026/09/28/pope-joins-pilgrims-in-lourdes-candlelit-rosary-as-150000-attend-mass)
 
-### 19. Ethiopia’s army promises restraint amid fears of new civil war
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss)
+### 25. ‘Thrilled’: huge swarms of bogong moths surprise NSW residents and may point to species’ recovery
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/science/2026/sep/28/thrilled-huge-swarms-of-bogong-moths-surprise-nsw-residents-and-may-point-to-species-recovery)
 
-### 20. La democrazia è viva
+### 26. Extra 1,000 prison beds announced in NSW as union warns against arresting ‘our way out of domestic violence’
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/sep/28/extra-1000-prison-beds-announced-in-nsw-as-union-warns-against-arresting-our-way-out-of-domestic-violence-ntwnfb)
+
+### 27. Bill Gates: 'Gli Usa prendano la guida sulla regolamentazione dell'IA'
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/podcast/la_scelta_del_direttore/2026/09/25/la-democrazia-e-viva_45f289d0-03a0-44da-a5dd-b73a0e147886.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/09/28/bill-gates-gli-usa-prendano-la-guida-sulla-regolamentazione-dellia_da33d106-fbe2-4c4d-aaba-fc83bb584507.html)
 
-### 21. AFL grand final breaks TV audience records – as it happened
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb)
-
-### 22. Nor'easter brings flooding as New York and New Jersey declare emergency
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss)
-
-### 23. The Surprising Reasons China Is Skeptical of A.I. Safety Calls
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html)
-
-### 24. Recreational Aerial Craft Become Weapons in Myanmar’s War
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html)
-
-### 25. The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html)
-
-### 26. Detained Tunisian flotilla activists: Worsening health amid family anguish
+### 28. Virat Kohli passes 15,000 ODI runs as India beat West Indies
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss)
 
-### 27. Bangkok declared disaster zone after heavy rains submerge roads
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss)
+### 29. Suppletive Reggio Calabria, seggi aperti alle 7, chiudono alle 15
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/09/28/suppletive-reggio-calabria-seggi-aperti-alle-7-chiudono-alle-15_a63e6693-4c61-4c65-82d4-be0b74ae1210.html)
 
-### 28. Powerful storm batters northeast US, hundreds of flights canceled
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/powerful-storm-batters-northeast-us-hundreds-of-flights-canceled/a-79446676?maca=en-rss-en-all-1573-rdf)
-
-### 29. Four killed in helicopter crash near Montreal
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss)
-
-### 30. Loyalist parade in Northern Ireland given go-ahead as almost 30-year ban overturned
+### 30. Cheers as murder charge dismissed for Queensland woman who helped terminally ill husband die
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/2026/sep/26/belfast-court-decision-orange-order-march-garvaghy-road)
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/sep/28/kylie-ellina-truswell-mobbs-murder-charge-dismissed-mnd-ntwnfb)
