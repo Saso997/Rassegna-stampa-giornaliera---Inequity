@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 05/10/2026 alle 06:28 UTC_
+_Generata automaticamente il 06/10/2026 alle 06:23 UTC_
 
 ---
 
-### 1. Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election
-- **Fonti che ne parlano:** BBC World, Euronews, France24, New York Times World, The Guardian World
-- **Link:** [Euronews](https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election)
+### 1. Trump says US moved their B-1 bombers from RAF Fairford airbase after additional threats were made
+- **Fonti che ne parlano:** BBC World, Euronews, The Guardian World
+- **Link:** [Euronews](https://www.euronews.com/2026/10/06/trump-says-us-moved-their-b-1-bombers-from-raf-fairford-airbase-after-additional-threats-w)
 
-### 2. US withdraws B-1 bombers from British military base RAF Fairford amid security concerns
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), Euronews, France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/europe/20261004-us-bombers-raf-fairford-uk-pentagon)
+### 2. Separatist party projected to win Quebec election, adding new test to Canada's unity
+- **Fonti che ne parlano:** Al Jazeera, BBC World, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss)
 
-### 3. Hundreds of schools to shut Monday as France braces for more student protests
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/france/20261004-up-to-500-french-schools-to-be-totally-or-partly-closed-monday-due-to-protests)
+### 3. France braces for national day of school protests after injuries and mass arrests
+- **Fonti che ne parlano:** BBC World, New York Times World, The Guardian World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss)
 
-### 4. California woman arrested and accused of spying on Taiwan president’s son for China
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china)
-
-### 5. Polls close in Brazil's high-stakes election pitting Lula against Flavio Bolsonaro
-- **Fonti che ne parlano:** Euronews, France24, The Guardian World
-- **Link:** [France24](https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro)
-
-### 6. Yemen gov’t forces commence major combat operation against Houthis
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss)
-
-### 7. Trump names intelligence chief Jay Clayton as new White House AI czar
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar)
-
-### 8. Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf)
-
-### 9. Who were the top teen athletes at the Asian Games?
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss)
-
-### 10. US air force removes all bombers from British military base RAF Fairford
-- **Fonti che ne parlano:** ANSA, BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
-
-### 11. Bosnian Serb nationalist Dodik declares party victory in Bosnia election
-- **Fonti che ne parlano:** Al Jazeera, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election)
-
-### 12. Brazil’s presidential race: Three key takeaways from the first round
-- **Fonti che ne parlano:** Al Jazeera, The Guardian World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss)
-
-### 13. Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory)
-
-### 14. Four African leaders issue joint declaration as Ethiopia war escalates
+### 4. Quebec separatists vow independence vote after provincial election win
 - **Fonti che ne parlano:** Al Jazeera, France24
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss)
+- **Link:** [France24](https://www.france24.com/en/americas/20261005-separatists-win-quebec-election-with-pledge-to-vote-on-leaving-canada)
 
-### 15. Watch: What we know about Russian strikes on Kyiv bridges
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss)
+### 5. Iran’s Top Security Official Warns of Dire Economic Crisis
+- **Fonti che ne parlano:** New York Times World, Politico Europe
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html)
 
-### 16. India news: Police order probe amid sexual harassment allegations against officers at Delhi protest
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-all-1573-rdf)
+### 6. Trump says Super Pac will pay for taxpayer-funded ads that sparked outcry
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads)
 
-### 17. Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
+### 7. Trump approves firing-squad execution of Fort Hood shooter, Pentagon says
 - **Fonti che ne parlano:** France24, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine)
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/05/trump-fort-hood-shooter-execution)
 
-### 18. US marine arrested in Japan on suspicion of killing woman, police say
-- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder)
+### 8. Student protests erupt at Cornell over mishandling of gang-rape allegations
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/05/students-vandalize-cornell-building)
 
-### 19. Ethiopian rebel forces withdraw from Tigray regional capital
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss)
+### 9. New York state declares measles disaster amid resurgence of disease in US
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss)
 
-### 20. Israele ricorda il 7 ottobre, il fallimento al centro delle elezioni
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html)
+### 10. Trump says US ready to aid Russia with plague outbreak in Siberia
+- **Fonti che ne parlano:** Al Jazeera, New York Times World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss)
 
-### 21. Arrivano i Nobel, per la pace c'è anche la Stazione Spaziale
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/canale_scienza/notizie/ricerca_istituzioni/2026/10/04/arrivano-i-nobel-per-la-pace-ce-anche-la-stazione-spaziale_3e2f615b-2708-49be-96ff-18a7c76a8649.html)
+### 11. Ethiopian PM Abiy demands Red Sea access as tensions with neighbours rise
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss)
 
-### 22. Il Papa: 'Cessino le guerre, in Terra Santa vittime innocenti'
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/vaticano/notizie/2026/10/04/il-papa-in-terra-santa-vittime-innocenti-della-guerra_540f1e8b-09e1-4325-a4de-6f78642eca04.html)
+### 12. ICC unseals Taliban leaders' warrants over persecuting women
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf)
 
-### 23. PRIME PAGINE | Pressing dei socialisti sul voto, Sanchez tira le somme
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/05/prime-pagine-pressing-dei-socialisti-sul-voto-sanchez-tira-le-somme_0b7382e1-ecd0-4bf0-b374-fb983e3dc356.html)
+### 13. Nationalists top Bosnia-Herzegovina's divisive election
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf)
 
-### 24. Djokovic defeats top seed Zverev to reach China Open semifinals
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss)
+### 14. Flávio Bolsonaro rides right-wing wave to win first round of Brazil election
+- **Fonti che ne parlano:** BBC World, France24
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss)
 
-### 25. Alleged flydubai attacker left Australia without finishing engineering course, university says
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb)
+### 15. Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory
+- **Fonti che ne parlano:** ANSA, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory)
 
-### 26. India news: Top court to hear petitions against Chief Election Commissioner Gyanesh Kumar
+### 16. Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say
+- **Fonti che ne parlano:** France24, The Guardian World
+- **Link:** [France24](https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say)
+
+### 17. Watch: How Spain's housing crisis has resulted in an early general election
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss)
+
+### 18. Flydubai co-pilot originally planned attack for July, investigators believe
+- **Fonti che ne parlano:** Euronews, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe)
+
+### 19. France, Germany seek new EU rapid response tool against trade threats
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [France24](https://www.france24.com/en/europe/20261005-france-germany-seek-new-eu-rapid-response-tool-against-trade-threats)
+
+### 20. Hundreds of French schools shut, teen loses hand in protests
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-all-1573-rdf)
+
+### 21. US closely monitoring case of lab worker who ‘possibly’ died of plague in Siberia, says Rubio
+- **Fonti che ne parlano:** Euronews, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk)
+
+### 22. U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats
+- **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html)
+
+### 23. Germany news: Saxony-Anhalt parliament sits after AfD win
 - **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/india-news-top-court-to-hear-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-rdf)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-news-saxony-anhalt-parliament-sits-after-afd-win/live-79558497?maca=en-rss-en-all-1573-rdf)
 
-### 27. Monday briefing: You asked, we answered – how will the US midterms go?
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/05/monday-briefing-first-edition-us-midterms-donald-trump-washington)
-
-### 28. Supporters of jailed ex-PM Imran Khan march to Pakistan capital
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss)
-
-### 29. The Return of Middle East Oil
+### 24. South Korea Investigates Possible Use of A.I. in Hacks on Its Banks
 - **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html)
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html)
 
-### 30. Stop allo sconto per il gasolio, poi accise mobili
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/10/05/stop-allo-sconto-per-il-gasolio-poi-accise-mobili_664823dc-12a3-42e9-851b-f10f32a6c4dd.html)
+### 25. Massive Ukrainian drone attack targets Moscow, Russian officials say
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/europe/20261006-massive-ukrainian-drone-attack-targets-moscow-russian-officials-say)
+
+### 26. India Cut 130 Million From Voter Roll, Fueling Protests Against Modi
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html)
+
+### 27. OpenAI admits response to Australian government hacks 'not good enough'
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss)
+
+### 28. ‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols)
+
+### 29. ‘Pull the plug’: protesters resort to direct action against AI firms
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms)
+
+### 30. Australian consumer confidence plunges to worst level since 1990s after RBA rate rise
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/06/consumer-confidence-index-interest-rate-rise-australia-rba-housing-renter-mortgage)
