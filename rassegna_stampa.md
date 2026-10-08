@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 07/10/2026 alle 06:23 UTC_
+_Generata automaticamente il 08/10/2026 alle 06:25 UTC_
 
 ---
 
-### 1. Germany's former spy chief detained on suspicion of trading state secrets
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews, France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/europe/20261006-former-german-spy-chief-detained-over-suspected-treasonous-espionage)
+### 1. Evicted Spanish pensioner who sparked housing protests has died, Madrid tenant union says
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), France24, New York Times World
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-rdf)
 
-### 2. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
+### 2. Texas kills man in first US execution since botched lethal injection of Christa Pike
+- **Fonti che ne parlano:** BBC World, Euronews, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard)
 
-### 3. Lionel Messi scores as Argentina beat Benin for his last international game
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/tv-shows/sports/20261007-lionel-messi-scores-as-argentina-beat-benin-for-his-last-international-game)
+### 3. ‘All I want to do is cry’: trauma of 7 October survivors three years after the attacks
+- **Fonti che ne parlano:** BBC World, Euronews, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks)
 
-### 4. French policeman charged after firing tear gas grenade at high school student
-- **Fonti che ne parlano:** Al Jazeera, Euronews, France24
-- **Link:** [France24](https://www.france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student)
-
-### 5. Former bishop sentenced to more than six years in prison for sexually abusing young Aboriginal men
+### 4. Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90
 - **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/07/christopher-alan-saunders-broome-bishop-sexual-abuse-aboriginal-men-ntwnfb)
+- **Link:** [The Guardian World](https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software)
 
-### 6. Christa Pike regains consciousness after botched Tennessee execution attempt
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/americas/20261006-christa-pike-regains-consciousness-after-botched-tennessee-execution-attempt)
+### 5. ‘Palestinians will bear the cost’: UK consulate in East Jerusalem prepares to shut its doors
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel)
 
-### 7. Middle East live: Houthis target airport in Yemen as Israel marks October 7 anniversary
+### 6. South Korea threatens legal action if fuel shipments to Russia found to have broken law
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law)
+
+### 7. Japan beer giants raided over suspicions they colluded to set the price of beverages
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages)
+
+### 8. What France's student protesters want – and what the government is offering
+- **Fonti che ne parlano:** BBC World, France24
+- **Link:** [France24](https://www.france24.com/en/france/20261007-what-france-s-student-protesters-want-%E2%80%93-and-what-the-government-is-offering)
+
+### 9. 3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html)
+
+### 10. Saudi Arabia says it will retaliate after deadly Houthi attacks on airports
 - **Fonti che ne parlano:** Al Jazeera, France24
-- **Link:** [France24](https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary)
+- **Link:** [France24](https://www.france24.com/en/middle-east/20261008-saudi-arabia-strikes-deadly-houthi-attacks-airports)
 
-### 8. Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html)
+### 11. DNC sues Trump administration over taxpayer-funded TV ads promoting president
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [France24](https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads)
 
-### 9. Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html)
+### 12. ‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss)
 
-### 10. Trump says he will speak to Putin over reported plague death in Russia
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia)
+### 13. Russia dismisses transparency calls amid reports of second Siberia plague case
+- **Fonti che ne parlano:** Al Jazeera, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/10/07/russia-dismisses-transparency-calls-amid-reports-of-second-siberia-plague-case)
 
-### 11. Kenya Records Ebola Case for First Time
-- **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html)
+### 14. Pro-Palestine university groups march in London on October 7 anniversary
+- **Fonti che ne parlano:** Al Jazeera, Euronews
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss)
 
-### 12. Police make seventh arrest over UK airbase incident
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident)
+### 15. Christa Pike ammanettata e confusa in ospedale, rischia ancora il boia
+- **Fonti che ne parlano:** ANSA, DW (Deutsche Welle)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/07/christa-pike-ammanettata-e-confusa-in-ospedale-rischia-ancora-il-boia_bce4583f-1380-494d-b431-921fe2f8c54a.html)
 
-### 13. From films to streaming prices - how the Warner Bros deal could affect you
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss)
+### 16. Canada suspends plans to expand assisted dying to people with mental illness
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss)
 
-### 14. Germany news: Far-right AfD gets first house speaker in a German state parliament
-- **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf)
-
-### 15. Germany news: Government presents plan for railroad revamp
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-news-government-presents-plan-for-railroad-revamp/live-79570924?maca=en-rss-en-all-1573-rdf)
-
-### 16. How Verifactu will affect Spanish SMEs and self-employed after its delay
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/10/07/how-verifactu-will-affect-spanish-smes-and-self-employed-after-its-delay)
-
-### 17. Scientists who put faith in technology less likely to take climate action
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action)
-
-### 18. At least two killed in fire caused by 'massive strikes' on Kyiv
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv)
-
-### 19. Wsj, 'Washington preme su Mosca, nota ufficiale sul decesso legato alla peste'
+### 17. Terremoto di magnitudo 4.7 al largo delle isole Eolie
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/07/wsj-washington-preme-su-mosca-nota-ufficiale-sul-decesso-legato-alla_2a87904c-6f40-4039-a5d0-9df75faa1800.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/08/terremoto-di-magnitudo-4.7-al-largo-delle-isole-eolie_da29634a-27dc-44fd-a3fa-7cc73e0fd755.html)
 
-### 20. Detective breaks down in court as she recalls finding Beau Lamarre-Condon’s alleged murder victims
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb)
-
-### 21. How three years of Israel’s genocidal war have changed Gaza
+### 18. How October 7 redrew the map of the Middle East
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss)
 
-### 22. Queensland man charged with murder after three-month-old son dies from ‘significant internal injuries’
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/07/queensland-man-charged-murder-three-month-old-baby-son-ntwnfb)
-
-### 23. Il Governo incassa la doppia fiducia sulla legge elettorale, occhi puntati su giovedì
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/10/06/legge-elettorale-ok-della-camera-alla-fiducia-sullarticolo-2-227-si_3b6319fb-ba23-405a-8f6e-c67558a8a218.html)
-
-### 24. Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb)
-
-### 25. How Netanyahu survived the political fallout from the October 7 attacks
+### 19. El Nino set to intensify before peaking in December, UN warns
 - **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks)
+- **Link:** [France24](https://www.france24.com/en/environment/20261008-el-nino-set-to-intensify-before-peaking-in-december-un-warns)
 
-### 26. Israele ricorda il 7 ottobre, il fallimento al centro delle elezioni
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html)
-
-### 27. Libya’s parliament removes Speaker Saleh after 12 years as discontent grows
+### 20. What did Palestinians take when they fled after October 7?
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss)
 
-### 28. India news: Opposition protest clouds Modi's 25-year milestone
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/india-news-opposition-protest-clouds-modi-s-25-year-milestone/live-79570653?maca=en-rss-en-all-1573-rdf)
-
-### 29. The Caspian Sea has been shrinking for decades. Now, a new island has emerged
+### 21. Europe Today: Rubio urges Europe to wake up as EU trade chief begins key China trip
 - **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged)
+- **Link:** [Euronews](https://www.euronews.com/2026/10/08/europe-today-rubio-urges-europe-to-wake-up-as-eu-trade-chief-begins-key-china-trip)
 
-### 30. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
+### 22. PRIME PAGINE | Borse a picco con i bond, Meloni ipotizza taglio accise
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/08/prime-pagine-borse-a-picco-con-i-bond-meloni-ipotizza-taglio-accise_00215ea1-14cd-43b2-a139-4c93cd69b99a.html)
+
+### 23. University students say procrastination is biggest threat to their academic performance
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/education/2026/oct/08/university-students-procrastination-biggest-threat-academic-performance)
+
+### 24. Voting opens in high stakes Holborn and St Pancras byelection
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali)
+
+### 25. UK’s military needs to focus spending on domestic defence, not overseas missions – report
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report)
+
+### 26. Legge elettorale alla sfida finale, oggi il voto decisivo a scrutinio segreto
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/10/08/legge-elettorale-alla-sfida-finale-oggi-il-voto-decisivo-a-scrutinio-segreto_3b6319fb-ba23-405a-8f6e-c67558a8a218.html)
+
+### 27. Germany news: UK's Burnham, Merz to talk security in Berlin
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf)
+
+### 28. Thursday briefing: Why young people are taking to the streets across France
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/08/thursday-briefing-why-young-people-are-taking-to-the-streets-across-france)
+
+### 29. Portugal: Cristiano Ronaldo controversy rumbles on
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/sports/20261008-portugal-cristiano-ronaldo-controversy-rumbles-on)
+
+### 30. Why single Ebola death in Kenya has sparked fears of wider African spread
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss)
