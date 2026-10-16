@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 15/10/2026 alle 06:36 UTC_
+_Generata automaticamente il 16/10/2026 alle 06:35 UTC_
 
 ---
 
-### 1. North Korea test-fires submarine-launched cruise missiles amid rising tensions
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles)
+### 1. At least 33 pupils and teacher killed after school roof collapses in Pakistan
+- **Fonti che ne parlano:** Al Jazeera, BBC World, Euronews, France24, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)
 
-### 2. Albania: Student protests in Tirana turn violent as Flamingo Revolution escalates
-- **Fonti che ne parlano:** Euronews, France24, The Guardian World
-- **Link:** [Euronews](https://www.euronews.com/video/2026/10/14/albania-student-protests-in-tirana-turn-violent-as-flamingo-revolution-escalates)
+### 2. Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’
+- **Fonti che ne parlano:** France24, New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace)
 
-### 3. Japan Protests Russia’s Detention of Journalist Accused of Spying
-- **Fonti che ne parlano:** New York Times World, The Guardian World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html)
+### 3. Clashes erupt at protest over university funding law in Argentina
+- **Fonti che ne parlano:** Al Jazeera, BBC World, New York Times World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss)
 
-### 4. As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital
-- **Fonti che ne parlano:** New York Times World, The Guardian World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html)
+### 4. China and North Korea open New Yalu River Bridge after 12-year delay
+- **Fonti che ne parlano:** BBC World, Euronews, New York Times World
+- **Link:** [Euronews](https://www.euronews.com/video/2026/10/15/china-and-north-korea-open-new-yalu-river-bridge-after-12-year-delay)
 
-### 5. Albanian Ministry of Justice on fire as education protesters riot
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss)
+### 5. UK bookstores scramble as Sally Rooney's novels are pulled over Palestine Action support
+- **Fonti che ne parlano:** France24, New York Times World
+- **Link:** [France24](https://www.france24.com/en/europe/20261016-uk-bookstores-scramble-as-sally-rooney-novels-pulled-over-palestine-action-support)
 
-### 6. Brazil cuts work week to 40 hours in win for Lula ahead of runoff
-- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+### 6. Saudi Arabia to execute man for being at protests and funerals when he was 15
+- **Fonti che ne parlano:** France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15)
+
+### 7. FBI investigates letters with ‘unknown substance’ sent to US election officials
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election)
+
+### 8. Nineteen injured in collision between minibus and train on Eurotunnel loading platform
+- **Fonti che ne parlano:** France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais)
+
+### 9. Houthi missile attack on Yemeni presidential palace kills five, minister says
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss)
+
+### 10. Bus hits train stopped on French side of Channel Tunnel, with 19 injured
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)
+
+### 11. Albania: Violent protests rock Tirana for third straight day
+- **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [Euronews](https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day)
+
+### 12. Pakistan school roof collapse kills at least 34 children and teacher
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead)
+
+### 13. Middle East updates: Houthis target Yemen government palace in Aden
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf)
+
+### 14. Maduro pleads not guilty to new torture-related charges in New York
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss)
+
+### 15. Trump calls off livestream of Fort Hood attacker's execution by firing squad
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
+
+### 16. Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
+
+### 17. Russia detains Swedish citizen as Moscow eyes future prisoner swaps
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/10/15/russia-detains-swedish-citizen-as-moscow-eyes-future-prisoner-swaps)
+
+### 18. Brazil cuts work week to 40 hours in win for Lula ahead of runoff
+- **Fonti che ne parlano:** BBC World, The Guardian World
 - **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff)
 
-### 7. Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief
-- **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf)
-
-### 8. Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html)
-
-### 9. Kenya confirms second Ebola case - a relative of the first victim
-- **Fonti che ne parlano:** BBC World, France24
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss)
-
-### 10. India’s cockroach protesters defy Modi’s crackdown – The Latest
-- **Fonti che ne parlano:** New York Times World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest)
-
-### 11. Two container ships sink near strait of Hormuz amid surge in Iranian attacks
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections)
-
-### 12. Pictured: Winning entries for Wildlife Photographer of the Year 2026
-- **Fonti che ne parlano:** ANSA, BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss)
-
-### 13. Germany: Supporters rally in Hamburg as trial opens over Nord Stream pipeline blasts
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/10/14/germany-supporters-rally-in-hamburg-as-trial-opens-over-nord-stream-pipeline-blasts)
-
-### 14. 'Starlink depotenziato', i raid di Putin seminano morte. Zelensky al Ft: "Riprenderemo gli attacchi alle raffinerie russe"
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/15/zelensky-al-ft-riprenderemo-gli-attacchi-alle-raffinerie-russe_5f185341-b55e-4f2e-b239-2253522c6d17.html)
-
-### 15. G20 finance ministers, central bankers gather amid fallout from Iran war
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss)
-
-### 16. Australian politics live: ADF member ‘person of interest’ after ‘despicable betrayal of trust’ on Navy ship where camera found in women’s shower
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb)
-
-### 17. UK economy unexpectedly grows 0.1% in August despite fall in consumer spending
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets)
-
-### 18. Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off
+### 19. 'Well, it worked': Elon Musk unveils new Tesla Roadster that can fly
 - **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off)
+- **Link:** [Euronews](https://www.euronews.com/2026/10/16/well-it-worked-elon-musk-unveils-new-tesla-roadster-that-can-fly)
 
-### 19. No timeline for lifting Land Registry paywall as ownership remains opaque
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque)
-
-### 20. Burnham v Swinney: will the UK PM overshadow the SNP’s conference?
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference)
-
-### 21. Poland looks to economic heights in a country transformed since Soviet days
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub)
-
-### 22. France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says
+### 20. Midterms 2026: Can Democrats capitalise on Latino voter regret?
 - **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says)
+- **Link:** [France24](https://www.france24.com/en/video/20261016-midterms-2026-can-democrats-capitalise-on-latino-voter-regret)
 
-### 23. PRIME PAGINE | Meloni attacca Trump, 'rischiosa l'intesa sul gasolio russo'
+### 21. Forte riduzione del traffico aereo in Italia, problemi alla rete dati
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/15/prime-pagine-meloni-attacca-trump-rischiosa-lintesa-sul-gasolio-russo_2125d8e2-339c-4068-b734-b6af5854d4de.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/10/16/forte-riduzione-del-traffico-aereo-in-italia-problemi-alla-rete-dati_d9146593-74cc-47ae-9c1f-a00c71879b3f.html)
 
-### 24. Is Lamine Yamal’s Barcelona record better than Messi’s as a teenager?
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss)
-
-### 25. PSG put on a show with win at Manchester City in Champions League thriller
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/tv-shows/sports/20261015-psg-put-on-a-show-with-win-at-manchester-city-champions-league-thriller)
-
-### 26. Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away)
-
-### 27. Beau Lamarre-Condon allegedly asked celebrity chaser friend if he could post phone to her in WA to throw in water, court told
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/15/beau-lamarre-condon-asked-friend-to-dispose-of-phone-ntwnfb)
-
-### 28. Restoring nature is key to a more resilient future
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss)
-
-### 29. New four-lane bridge between China and North Korea opens after a decade of delay
+### 22. New White House press secretary Katie Zacharia says China lacked 'proper' toilets
 - **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/10/15/new-four-lane-bridge-between-china-and-north-korea-opens-after-a-decade-of-delay)
+- **Link:** [Euronews](https://www.euronews.com/2026/10/16/new-white-house-press-secretary-katie-zacharia-says-china-lacked-proper-toilets)
 
-### 30. ‘Manosphere’ podcasts and moon-landing conspiracy theories to remain online under new laws, Wells says
+### 23. India's 'Cockroaches' to march again after protest crackdown
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-rdf)
+
+### 24. Vibe coding: Game-changer or risky business?
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss)
+
+### 25. Tories call for 5-year freeze on minimum wage to tackle youth unemployment
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/15/anika-wells-dismisses-gov-censorship-claims-online-safety-national-press-club-ntwnfb)
+- **Link:** [The Guardian World](https://www.theguardian.com/society/2026/oct/16/tories-call-5-year-freeze-minimum-wage-youth-unemployment)
+
+### 26. PRIME PAGINE | Manovra, 5 miliardi da banche-assicurazioni. Istituti sorpresi
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/16/prime-pagine-manovra-5-miliardi-da-banche-assicurazioni.-istituti-sorpresi_59e3713f-931d-400e-a8e6-e0ab1ae7a4d4.html)
+
+### 27. Alone in Gaza: Genocide leaves Palestinian man without family or a home
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss)
+
+### 28. US sanctions leave Iranians facing flight cancellations and soaring costs
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss)
+
+### 29. Starlink: How Elon Musk's company influences geopolitics
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf)
+
+### 30. Marseille woes continue with a second consecutive Europa League defeat
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/sports/20261016-marseille-woes-continue-with-a-second-consecutive-europa-league-defeat)
