@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 19/10/2026 alle 06:41 UTC_
+_Generata automaticamente il 20/10/2026 alle 06:35 UTC_
 
 ---
 
-### 1. Trump endorses Netanyahu nine days before Israeli election, breaking months of silence
+### 1. Spain floods kill four as torrential rain inundates eastern regions
 - **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), Euronews, France24
+- **Link:** [France24](https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions)
+
+### 2. Australian MP Helen Haines 'critically' hurt in car ramming attack, officials say
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, New York Times World
+- **Link:** [Euronews](https://www.euronews.com/2026/10/19/australian-mp-helen-haines-critically-hurt-in-car-ramming-attack-officials-say)
+
+### 3. Live: Curfews in Paris and other cities helped keep the peace overnight, says French PM
+- **Fonti che ne parlano:** BBC World, France24, New York Times World
+- **Link:** [France24](https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting)
+
+### 4. Albanian police clash with protesters in Tirana as unrest enters sixth day
+- **Fonti che ne parlano:** Euronews, New York Times World, The Guardian World
+- **Link:** [Euronews](https://www.euronews.com/video/2026/10/19/albanian-police-clash-with-protesters-in-tirana-as-unrest-enters-sixth-day)
+
+### 5. Cuts force World Food Programme to end support for half a million Palestinians in Gaza
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza)
+
+### 6. Alberta voters reject plan for referendum to leave Canada, CBC projects
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+
+### 7. How is the US economy really doing under President Trump?
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss)
+
+### 8. Trump says he is open to trilateral summit with Putin and Xi
+- **Fonti che ne parlano:** Euronews, Politico Europe
+- **Link:** [Politico Europe](https://www.politico.eu/article/trump-says-he-is-open-to-trilateral-summit-with-putin-and-xi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+
+### 9. Japan launches mission to explore Mars' moons and bring back samples
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [France24](https://www.france24.com/en/technology/20261020-japan-launches-mission-to-explore-mars-moons-and-bring-back-samples)
+
+### 10. Albania’s Leader, Edi Rama, Denounces Violent Protests
+- **Fonti che ne parlano:** Al Jazeera, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/18/world/europe/albania-protrests.html)
+
+### 11. Zelensky accuses US of delaying missile deliveries as tensions rise
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [France24](https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise)
+
+### 12. Zelensky says Starshield speed limits slowing down frontline response
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [France24](https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response)
+
+### 13. Exiled critic of Rwandan president found beheaded in Uganda
+- **Fonti che ne parlano:** Al Jazeera, BBC World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss)
+
+### 14. Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass
+- **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html)
+
+### 15. After looting spree, France tells online resellers to crack down on traffic of stolen goods
+- **Fonti che ne parlano:** France24, Politico Europe
+- **Link:** [Politico Europe](https://www.politico.eu/article/france-orders-online-resellers-crack-down-stolen-goods-after-looting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+
+### 16. French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates)
+
+### 17. France riots: AI photos falsely depict elderly couple ‘stripped and robbed’
+- **Fonti che ne parlano:** ANSA, France24
+- **Link:** [France24](https://www.france24.com/en/france-riots-ai-photos-falsely-depict-elderly-couple-stripped-and-robbed-1)
+
+### 18. Ukraine says it carried out first drone airlift of wounded soldier from front line
+- **Fonti che ne parlano:** BBC World, France24
+- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss)
+
+### 19. Deadly floods sweep through eastern Spain after torrential rain
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [Euronews](https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain)
+
+### 20. France imposes partial curfews in several cities, including parts of Paris
+- **Fonti che ne parlano:** France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister)
+
+### 21. Kenya cult leader who told parents to starve children guilty of 191 murders
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)
+
+### 22. Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss)
+
+### 23. Albertans vote on path to independence as Carney fights to keep Canada united
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united)
+
+### 24. Four people killed in ‘violent, fast-moving’ fire at Canadian military base
+- **Fonti che ne parlano:** France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright)
+
+### 25. Trump endorses Netanyahu nine days before Israeli election, breaking months of silence
+- **Fonti che ne parlano:** Euronews, New York Times World
 - **Link:** [Euronews](https://www.euronews.com/2026/10/19/trump-endorses-netanyahu-days-before-israeli-election-breaking-months-of-silence)
 
-### 2. Pope greeted by crowds in first major appearance since lung cancer surgery
-- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle), New York Times World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss)
-
-### 3. Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition
-- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle), France24
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf)
-
-### 4. Trump says suspension of Russia sanctions is to keep peace negotiations going
-- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss)
-
-### 5. Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss)
-
-### 6. 🔴 Macron says 'nothing justifies' violence in protests during address to nation
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation)
-
-### 7. Anthropic says it will commit 5% of its shares to 'public benefit fund'
-- **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss)
-
-### 8. Trump’s Russia rethink — and Europe’s response
-- **Fonti che ne parlano:** Al Jazeera, Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/podcast/brussels-playbook-podcast/trumps-russia-rethink-and-europes-response/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 9. Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-rdf)
-
-### 10. Kenya confirms eighth Ebola case amid widening regional outbreak
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss)
-
-### 11. Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes
+### 26. Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says
 - **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-rdf)
 
-### 12. Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France
-- **Fonti che ne parlano:** Al Jazeera, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron)
+### 27. Lula supporters spell out his name in Rio waters before Brazil runoff
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [Euronews](https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff)
 
-### 13. 🔴Watch live: Macron to address France day after nationwide violent protests
-- **Fonti che ne parlano:** Al Jazeera, France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france)
-
-### 14. France: Paris, Lyon and Marseille count the cost after violent protests
-- **Fonti che ne parlano:** ANSA, Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/10/18/france-paris-lyon-and-marseille-count-the-cost-after-violent-protests)
-
-### 15. Israeli Settlers Attack Palestinians and European Officials in West Bank
-- **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html)
-
-### 16. European diplomats attacked by Israeli settlers in West Bank
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)
-
-### 17. Anti-government protesters battle with police in Albania
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss)
-
-### 18. Watch: Shops looted and restaurants gutted in Paris riots
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss)
-
-### 19. 'Quite horrifying': Afghan economic crisis leaves EU deportees with 'very little' to return to
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to)
-
-### 20. Bomb threat forces Israel to Austria flight into emergency landing
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss)
-
-### 21. India news: CJP alleges 'deliberate' delay in leaders' release
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-all-1573-rdf)
-
-### 22. Missili russi su Kiev, un morto e otto feriti
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/19/missili-russi-su-kiev-un-morto-e-otto-feriti_880ccfc3-f526-4c4a-9def-79024e582454.html)
-
-### 23. Mbappe scores two, Guler one, as Real Madrid find form before El Clasico
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/19/mbappe-scores-two-guler-one-as-real-madrid-find-form-before-el-clasico?traffic_source=rss)
-
-### 24. Seabird numbers bounce back in Solent region after 2022 avian flu wipeout
+### 28. A young life ‘dominated by gambling’: Victorian coroner delivers stinging findings on death of 22-year-old
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb)
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/20/kyle-hudson-inquest-victorian-coroner-gambling-online-betting-ntwnfb)
 
-### 25. Funding shortages force World Food Programme to cut aid to Gaza
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss)
+### 29. ‘Lack of curiosity’ about family’s religious beliefs was ‘missed opportunity’ to save eight-year-old, inquest hears
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/20/elizabeth-struhs-death-inquest-saints-religious-sect-coroner-evidence-ntwnfb)
 
-### 26. Russia pounds Kyiv as Rubio urges Ukraine's Zelensky to 'focus' on ending the war
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine)
-
-### 27. The kingmakers who could determine Israel’s election
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss)
-
-### 28. PRIME PAGINE | A Milano ancora scontri, Meloni convoca il vertice sulla sicurezza
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/19/prime-pagine-a-milano-ancora-scontri-meloni-convoca-il-vertice-sulla-sicurezza_42428f61-71c1-4aaf-87b7-a8bbb3d57fe3.html)
-
-### 29. China’s economy grows 4.5 percent in Q3, beating forecasts
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss)
-
-### 30. Albertans vote on path to independence as Carney fights to keep Canada united
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united)
+### 30. Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb)
