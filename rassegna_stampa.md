@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 23/10/2026 alle 06:36 UTC_
+_Generata automaticamente il 24/10/2026 alle 06:32 UTC_
 
 ---
 
-### 1. Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews, New York Times World, The Guardian World
+### 1. Seven killed and 40 injured after gunmen open fire at church funeral in Jordan
+- **Fonti che ne parlano:** Al Jazeera, BBC World, New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan)
+
+### 2. Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria)
+
+### 3. Oil spill hits UAE beaches as tanker attacks multiply near Hormuz
+- **Fonti che ne parlano:** Al Jazeera, BBC World, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz)
+
+### 4. Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes
+- **Fonti che ne parlano:** Euronews, New York Times World, The Guardian World
 - **Link:** [Euronews](https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of)
 
-### 2. Why a student protest movement is challenging 12 years of Vučić rule in Serbia
-- **Fonti che ne parlano:** BBC World, Politico Europe, The Guardian World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss)
+### 5. France to deploy 70,000 police on Saturday to prevent civil unrest
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest)
 
-### 3. Serbia: Student protesters flood Belgrade ahead of snap elections
+### 6. Taiwan: Deadly Typhoon Champi brings travel chaos and school closures
 - **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections)
+- **Link:** [Euronews](https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures)
 
-### 4. Is Iran ready for another major US attack after midterm elections?
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-rdf)
+### 7. Pentagon designates China-backed campus cultural centers a threat to US national security
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth)
 
-### 5. Trump says Musk restored Ukraine’s Starlink access amid Russia war
+### 8. Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china)
+
+### 9. Helen Haines’s condition improves days after losing both legs from alleged attack
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb)
+
+### 10. Argentinian judge drops fraud investigation into Milei over crypto scandal
 - **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss)
 
-### 6. Thousands protest across Poland for access to free and legal abortions
+### 11. Kenya announces second Ebola death, says ‘no evidence’ of community spread
 - **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss)
 
-### 7. China: Panic as 7.0-magnitude earthquake rocks Tibet
-- **Fonti che ne parlano:** Al Jazeera, Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet)
+### 12. Macron condemns racism after one killed in ‘terrorist’ shooting near Paris
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris)
 
-### 8. Almost all shallow-water coral reefs now face extinction risk, study warns
+### 13. Russia, Ukraine agree to Melania Trump-brokered localised ceasefire
 - **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss)
 
-### 9. US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss)
-
-### 10. Ukraine and Russia exchange strikes after US envoy visit to the Kremlin
+### 14. 🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says
 - **Fonti che ne parlano:** BBC World, France24
-- **Link:** [France24](https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin)
+- **Link:** [France24](https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack)
 
-### 11. Greece: Thousands flood Athens streets in education protest
+### 15. Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits
+- **Fonti che ne parlano:** BBC World, Politico Europe
+- **Link:** [Politico Europe](https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+
+### 16. Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)
+
+### 17. Oil price rises above $117 a barrel amid fears US will renew strikes on Iran
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran)
+
+### 18. France: shops barricaded in Lyon and Orléans for possible unrest
 - **Fonti che ne parlano:** Euronews, France24
-- **Link:** [Euronews](https://www.euronews.com/video/2026/10/21/greece-thousands-flood-athens-streets-in-education-protest)
+- **Link:** [Euronews](https://www.euronews.com/video/2026/10/23/france-shops-barricaded-in-lyon-and-orleans-for-possible-unrest-as-protests-loom)
 
-### 12. How the midterms could change Trump’s presidency
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss)
+### 19. French authorities tighten restrictions and ban specific protests
+- **Fonti che ne parlano:** France24, New York Times World
+- **Link:** [France24](https://www.france24.com/en/video/20261023-french-authorities-tighten-restrictions-and-ban-specific-protests-1)
 
-### 13. Rimossi nella notte i blocchi stradali dei tir in Campania
+### 20. France prepares for day of protest a week after nationwide riots
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
+
+### 21. I media: 'Decine di palestinesi arrestati nei blitz dell'Idf in Cisgiordania'
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/23/rimossi-nella-notte-i-blocchi-stradali-dei-tir-in-campania_fd94eea8-5def-4c2c-a53e-ef58e99b697f.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/24/i-media-decine-di-palestinesi-arrestati-nei-blitz-dellidf-in-cisgiordania_efc8cd4a-8403-4739-bcdf-6a0660124edc.html)
 
-### 14. US offers mixed messages on limits to Ukraine's Starshield system
+### 22. More than third of post offices in TG Jones stores to shut by early 2027
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027)
+
+### 23. Most levelling up projects still unfinished years after funding allocated
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation)
+
+### 24. ‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia)
+
+### 25. Rivolta
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/podcast/la_parola_della_settimana/2026/10/24/rivolta_be9b1bc5-fff6-4dd8-9e27-045ca5ea3326.html)
+
+### 26. Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss)
+
+### 27. How Benjamin Netanyahu reshaped Israel’s institutions
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss)
+
+### 28. French police deploy in big numbers and Paris shuts major museums ahead of new protests
 - **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system)
+- **Link:** [France24](https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests)
 
-### 15. Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb)
-
-### 16. FIFA President Infantino’s re-election endorsed in U-turn by Asian football
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss)
-
-### 17. Manchester United labelled ‘babies’ by club legend Wayne Rooney
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss)
-
-### 18. 🔴Live: Macron meets with student representatives and law enforcement ahead of new protests
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests)
-
-### 19. La famiglia Vacchi compra l'Hotel de La Poste di Cortina d'Ampezzo
+### 29. Brucia il 'Nido dell'Aquila' di Hitler sulle Alpi, una persona fermata
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/10/22/la-famiglia-vacchi-compra-lhotel-de-la-poste-di-cortina-dampezzo_0e073d40-7cf5-43ce-8f9a-254fe62cf3f9.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/24/brucia-il-nido-dellaquila-di-hitler-sulle-alpi-una-persona-fermata_aea89572-ba94-43cf-b176-37b0a32498c0.html)
 
-### 20. EU entering winter with lowest gas reserves on record, IEA boss warns
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss)
-
-### 21. EU-Canada 'love story' needs more than warm words, senior MEP warns
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns)
-
-### 22. EU leaders to press Burnham to pay more towards Ukraine’s defence
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence)
-
-### 23. ‘We’ve lost a basic sense of politeness’: UK readers reveal daily reality of public transport
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign)
-
-### 24. PRIME PAGINE | Il governo corre ai ripari, 175 milioni contro il caro carburante
+### 30. Da Milano a Castel Volturno, piazze blindate per i nuovi cortei. La mappa
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/23/prime-pagine-il-governo-corre-ai-ripari-175-milioni-contro-il-caro-carburante_92f2780a-4baf-47a8-8a49-ea53bb12f7a3.html)
-
-### 25. Putin apre a un vertice con Trump e Zelensky: 'Ma il Donbass è storicamente russo'
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/22/putin-apre-a-un-vertice-con-trump-e-zelensky-ma-il-donbass-e-storicamente-russo_98c24b57-9871-4c38-bc42-2d378bac89ad.html)
-
-### 26. Missili russi hanno colpito una centrale termoelettrica in Ucraina. 'Danni ingenti'
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/23/missili-russi-hanno-colpito-una-centrale-termoelettrica-in-ucraina.-danni-ingenti_f89efe01-fb94-44fa-bc3c-c771c281e584.html)
-
-### 27. Musk's Starshield system 'back' in Ukraine, says Trump
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf)
-
-### 28. C'era una volta il furgone, oggi c'è l'offerta Toyota
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/native/ansacom/2026/10/23/cera-una-volta-il-furgone-oggi-ce-lofferta-toyota_a4544187-8d38-4f7f-a2a5-7e3fd1c549a3.html)
-
-### 29. Embarrassing name? How we live with names we don't like
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf)
-
-### 30. Terremoto in Tibet, almeno 16 morti e 46 feriti
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/23/terremoto-in-tibet-almeno-16-morti-e-46-feriti_3ea4cb1d-2c68-4bd5-997c-15f885f93a48.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/24/da-milano-a-castel-volturno-piazze-blindate-per-i-nuovi-cortei.-la-mappa_4b093092-5d16-474b-ad7e-21a60f02d95f.html)
