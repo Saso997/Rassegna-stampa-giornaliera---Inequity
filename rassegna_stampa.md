@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 27/10/2026 alle 11:59 UTC_
+_Generata automaticamente il 28/10/2026 alle 12:38 UTC_
 
 ---
 
-### 1. Jordan says its military struck 'militant hideouts' in Syria after deadly church attack
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), France24, New York Times World, The Guardian World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf)
+### 1. Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 84% of ballots counted
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news)
 
-### 2. Two men charged over alleged plot to assist Iran after RAF Fairford incident
-- **Fonti che ne parlano:** Al Jazeera, New York Times World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford)
+### 2. Flávio Bolsonaro on flight to Miami after fleeing Brazil amid election defeat
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat)
 
-### 3. Pope's South American trip to go ahead as planned after lung cancer surgery
-- **Fonti che ne parlano:** BBC World, Euronews, France24
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss)
+### 3. Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin
+- **Fonti che ne parlano:** Al Jazeera, BBC World, New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin)
 
-### 4. French government concessions to students 'tactically shrewd' but risk creating new set of problems
-- **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/french-government-concessions-to-students-tactically-shrewd-but-risk-creating-new-set-of-problems)
+### 4. Serbian shot dead after attacking officer outside Israeli embassy, minister says
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss)
 
-### 5. Algeria to deploy army units to Niger to protect economic interests
-- **Fonti che ne parlano:** Euronews, France24
-- **Link:** [France24](https://www.france24.com/en/video/20261027-algeria-deploys-army-units-to-niger-to-protect-economic-interests)
+### 5. At least 31 dead and 80 injured after two trains collide in Spain – latest updates
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates)
 
-### 6. Turnout so far highest in decades as Israelis vote in pivotal election
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
-
-### 7. India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss)
-
-### 8. Israel election: Israelis vote for 1st time since October 7 terror attack
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf)
-
-### 9. Mbappé dropped by major Chinese brands as backlash grows over Mao joke
-- **Fonti che ne parlano:** BBC World, Politico Europe
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss)
-
-### 10. AI company Anthropic files its IPO in hopes of raising $100 billion
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf)
-
-### 11. Netanyahu's political survival on the line as Israel heads to the polls
+### 6. Israel’s election: The battle between change and anti-Palestinian sentiment
 - **Fonti che ne parlano:** Al Jazeera, France24
-- **Link:** [France24](https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss)
 
-### 12. US-brokered ceasefire begins in Russian-occupied Oleshky as strikes hit Kyiv
+### 7. Israelis head to polls in first general election since 7 October attacks with no clear favourite
 - **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [Euronews](https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav)
+
+### 8. Israeli Election Authorities and Volunteers Seek to Counter Threats to Voting
+- **Fonti che ne parlano:** France24, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-authorities-and-volunteers-seek-to-counter-threats-to-voting.html)
+
+### 9. Israeli right makes provocative statements as election votes are counted
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss)
+
+### 10. Russia-Africa Summit: What is on the agenda, and why does it matter?
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss)
+
+### 11. India: Over 180,000 evacuated on east coast as massive cyclone hits
+- **Fonti che ne parlano:** France24, New York Times World
+- **Link:** [France24](https://www.france24.com/en/video/20261028-india-over-180-000-evacuated-on-east-coast-as-massive-cyclone-hits)
+
+### 12. 🔴 Two high-speed trains collide in Spain, halting traffic on Madrid-Andalusia line
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [France24](https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says)
+
+### 13. Spain train crash: at least 31 dead after collision in Toledo province
+- **Fonti che ne parlano:** France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo)
+
+### 14. US-brokered ceasefire begins in Russian-occupied Oleshky as strikes hit Kyiv
+- **Fonti che ne parlano:** Euronews, France24
 - **Link:** [Euronews](https://www.euronews.com/2026/10/27/us-brokered-ceasefire-begins-in-russian-occupied-oleshky-as-strikes-hit-kyiv)
 
-### 13. Live: Netanyahu blasts Arab parties for ‘trying to steal’ vote as Israel holds tense election
-- **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack)
+### 15. Flávio Bolsonaro è in Florida e ha incontrato il fratello Eduardo
+- **Fonti che ne parlano:** ANSA, New York Times World
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/28/flavio-bolsonaro-e-in-florida-e-ha-incontrato-il-fratello-eduardo_1b9d2be9-8a00-428f-926e-46b20bfc3e26.html)
 
-### 14. England and Bayern Munich striker Harry Kane wins Ballon d'Or
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf)
+### 16. Netanyahu or Eisenkot? Can you form Israel’s next coalition government?
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government?traffic_source=rss)
 
-### 15. Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede
-- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula)
+### 17. Israel’s stock market drops as exit polls show no clear election winner
+- **Fonti che ne parlano:** Al Jazeera, New York Times World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss)
 
-### 16. Netanyahu reportedly pressured military to attack Iran in run-up to election
-- **Fonti che ne parlano:** New York Times World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election)
-
-### 17. How 'Lula's Army' WhatsApp channel helped turn Brazil election around
+### 18. King acknowledges 'suffering of the past' as Caribbean tour begins
 - **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss)
 
-### 18. Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump
+### 19. India evacuates tens of thousands as Cyclone Arnab makes landfall
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/10/28/india-evacuates-tens-of-thousands-as-cyclone-arnab-makes-landfall)
+
+### 20. Watch: What happens now after close vote in Israeli election?
 - **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss)
 
-### 19. Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry
-- **Fonti che ne parlano:** New York Times World, The Guardian World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html)
+### 21. Do You Have Questions About the U.S. Midterm Elections?
+- **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html)
 
-### 20. Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right
-- **Fonti che ne parlano:** New York Times World, The Guardian World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html)
+### 22. Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'
+- **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-rdf)
 
-### 21. Who is Lula? From ex-worker and prisoner to Brazil's president again
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss)
+### 23. Budget 2026 live: Healey delivers first budget of Burnham’s government
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics)
 
-### 22. American rapper Macklemore begins 'Free Palestine' tour
+### 24. Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest)
+
+### 25. Russell Brand says he couldn’t find anyone to give evidence on his behalf in rape and sexual assault trial – latest updates
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates)
+
+### 26. Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics
 - **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour)
+- **Link:** [France24](https://www.france24.com/en/tv-shows/spotlight/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics)
 
-### 23. US midterms: Trump escalates anti-Muslim attacks against Democratic Senate candidate Abdul El-Sayed
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/video/20261027-us-midterms-trump-escalates-anti-muslim-attacks-against-democratic-senate-candidate-abdul-el-sayed)
-
-### 24. Truce begins in Ukraine city where residents ate weeds to survive
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss)
-
-### 25. French MPs will vote on Sánchez-style amnesty plan for undocumented workers
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/france-vote-amnesty-plan-undocumented-workers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 26. Sudan: One year after the fall of El-Fasher
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher)
-
-### 27. Here’s the latest.
+### 27. Live Updates: At Least 30 Killed in Train Crash in Spain, Official Says
 - **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest)
+- **Link:** [New York Times World](https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo)
 
-### 28. Ex-FBI chief James Comey faces federal charges for third time
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss)
+### 28. Here’s the latest.
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo)
 
-### 29. Tories dismiss PM’s budget ‘everyday fixes’ as little more than ‘cheaper gherkins’, and ‘an insult to families’ – UK politics live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates)
+### 29. Scontro tra due treni in Spagna, le immagini aeree della Guardia Civil
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/videogallery/mondo/2026/10/28/scontro-tra-due-treni-in-spagna-le-immagini-aeree-della-guardia-civil_64ef8112-c363-4fda-973f-80b0c93ae3a7.html)
 
-### 30. Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates)
+### 30. Il gip di Milano rimette in libertà Youssef Siher
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/28/il-gip-di-milano-rimette-in-liberta-youssef-siher_c3831f66-7791-4ae1-9745-5d4a8cbb9980.html)
