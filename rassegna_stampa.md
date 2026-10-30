@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 29/10/2026 alle 12:48 UTC_
+_Generata automaticamente il 30/10/2026 alle 12:39 UTC_
 
 ---
 
-### 1. Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews, New York Times World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat)
+### 1. Spain: cranes clear twisted train wreckage as rescuers work through the night
+- **Fonti che ne parlano:** Al Jazeera, Euronews, France24
+- **Link:** [Euronews](https://www.euronews.com/video/2026/10/29/spain-cranes-clear-twisted-train-wreckage-as-rescuers-work-through-the-night)
 
-### 2. European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24, Politico Europe, The Guardian World
+### 2. Netanyahu bloc first but without majority as Arab parties hold balance of power in Israel election
+- **Fonti che ne parlano:** Euronews, New York Times World, The Guardian World
+- **Link:** [Euronews](https://www.euronews.com/2026/10/30/netanyahu-bloc-emerges-ahead-in-israeli-election-but-fails-to-secure-majority)
+
+### 3. Venezuela: Opposition leader Maria Corina Machado says US backs 2027 election
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), New York Times World
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-all-1573-rdf)
+
+### 4. What We Know About the Deadly Train Crash in Spain
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html)
+
+### 5. JD Vance contacts senior Iranian official in bid to revive peace talks
+- **Fonti che ne parlano:** Al Jazeera, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks)
+
+### 6. Georgia midterm elections: Why this is a key US battleground
+- **Fonti che ne parlano:** Al Jazeera, Politico Europe
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground?traffic_source=rss)
+
+### 7. Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close)
+
+### 8. An Arab Town in Israel Celebrates the Election but Wonders What Will Change
+- **Fonti che ne parlano:** Al Jazeera, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html)
+
+### 9. Tennis: Alexander Zverev guaranteed to become world No. 1
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/sports/20261030-tennis-alexander-zverev-guaranteed-to-become-world-no-1)
+
+### 10. Erin Patterson to die in prison after losing appeal against mushroom murder convictions
+- **Fonti che ne parlano:** New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb)
+
+### 11. Russian oil refinery struck as Ukraine renews drone attacks
+- **Fonti che ne parlano:** Al Jazeera, Politico Europe
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss)
+
+### 12. Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal
+- **Fonti che ne parlano:** Al Jazeera, BBC World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss)
+
+### 13. Addio a Patrick Stewart, il capitano di Star Trek e professore degli X-Men
+- **Fonti che ne parlano:** ANSA, France24
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/29/e-morto-patrick-stewart-il-capitano-picard-di-star-trek_aade8c8f-71ac-4a5e-a8c6-042f27445816.html)
+
+### 14. Ukraine war live: Russian strikes leave 200,000 without power as aid convoy reaches stricken Oleshky
+- **Fonti che ne parlano:** Euronews, France24
+- **Link:** [France24](https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine)
+
+### 15. Berlin's Elif Eralp under fire over Der Spiegel interview
+- **Fonti che ne parlano:** DW (Deutsche Welle), Politico Europe
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/berlin-s-elif-eralp-under-fire-over-der-spiegel-interview/a-79799766?maca=en-rss-en-all-1573-rdf)
+
+### 16. European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
 - **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf)
 
-### 3. At least 13 killed in 'horrific' Russian drone strike at Ukraine train station
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station)
-
-### 4. Hello Kitty firm apologises, cuts ties with Japanese spy show after China backlash
-- **Fonti che ne parlano:** BBC World, France24, The Guardian World
-- **Link:** [France24](https://www.france24.com/en/asia-pacific/20261029-hello-kitty-firm-apologises-cuts-ties-with-japanese-spy-show-after-china-backlash)
-
-### 5. First aerial images show scene of deadly train crash in Toledo, Spain
-- **Fonti che ne parlano:** BBC World, Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/2026/10/28/first-aerial-images-show-scene-of-deadly-train-crash-in-toledo-spain)
-
-### 6. Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray
-- **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss)
-
-### 7. Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss)
-
-### 8. Netanyahu's bloc leading Israel election but short of majority, partial results show
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss)
-
-### 9. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
-
-### 10. US cruise ship halts world voyage over fuel costs, 200 passengers stranded in Cambodia
-- **Fonti che ne parlano:** BBC World, France24
-- **Link:** [France24](https://www.france24.com/en/video/20261029-us-cruise-ship-halts-world-voyage-over-fuel-costs-200-passengers-stranded-in-cambodia)
-
-### 11. Israel's election result is messy - here's why
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss)
-
-### 12. North Korea fires 'around a dozen' ballistic missiles amid rising tensions with South Korea
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea)
-
-### 13. For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset
-- **Fonti che ne parlano:** New York Times World, Politico Europe
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html)
-
-### 14. EU backs away from offer to Canada to start ‘associate member’ talks
-- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/european-union-canada)
-
-### 15. Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html)
-
-### 16. South Korean prosecutors press for death sentence in Yoon martial law case
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss)
-
-### 17. Meloni: 'Non mi pento di essere stata vicina a Trump, difendevo l'interesse nazionale'
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-non-mi-pento-di-essere-stata-vicina-a-trump-difendevo-linteresse-nazionale_79e9c780-c4d6-44a4-a4c4-6094e300f984.html)
-
-### 18. Lagarde si dimette dalla Bce dal 7 febbraio 2027
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/10/29/lagarde-si-dimette-dalla-bce-dal-7-febbraio-2027_3100c924-edf9-44a1-9175-21f84dd04681.html)
-
-### 19. With No Clear Winner, How Could Israel Get a Prime Minister?
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html)
-
-### 20. Progettava attentato in sinagoga e moschea, arrestato 22enne a Milano
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/29/progettava-attentato-in-sinagoga-e-moschea-arrestato-22enne-a-milano_fb5694eb-992b-4b7d-afd9-0028c056fa2e.html)
-
-### 21. Denmark wants to ban ‘turbo chickens’
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/denmark-ban-turbo-chicken-christian-rabjerg-madsen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 22. New book makes fiery claims about Jared Kushner’s finances in Trump’s first term
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims)
-
-### 23. A week of Israel’s lockdown in Hebron: What’s happened, when will it end?
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss)
-
-### 24. USA: Barack Obama slams Donald Trump in final midterm push
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/video/20261029-usa-barack-obama-slams-donald-trump-in-final-midterm-push)
-
-### 25. Carney to push for closer ties at Canada-EU summit in Montreal
-- **Fonti che ne parlano:** BBC World
+### 17. EU chief lays out vision for new Canada partnership at Montreal summit
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
 - **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss)
 
-### 26. L'assemblea di Mps boccia la fusione con Mediobanca
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/10/29/lassemblea-di-mps-boccia-la-fusione-con-mediobanca_5c1a02b1-a853-4f2d-9db9-75c37a981ec4.html)
+### 18. Hong Kong’s leader apologises for residential fire that killed 168 people
+- **Fonti che ne parlano:** New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people)
 
-### 27. Divieto social ai minori, la Ue congela per 12 mesi le leggi nazionali
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/29/divieto-social-ai-minori-ue-congela-per-12-mesi-le-leggi-nazionali_783834ec-2a2f-4c5d-9e2c-4a347b6f97ec.html)
+### 19. Flávio Bolsonaro calls himself 'leader of Brazil' after election loss
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss)
 
-### 28. A Ukrainian City in the Kill Zone Relishes a Moment of Peace
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html)
+### 20. Russian drone attack on Ukrainian train station kills at least 14, officials say
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss)
 
-### 29. Israel election results live: president warns against ‘tarnishing an entire community’ in defence of Palestinian vote
+### 21. North Korea warns South Korea with ballistic missiles as Seoul calls for talks to ease border tensions
+- **Fonti che ne parlano:** Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor)
+
+### 22. Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news)
+- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates)
 
-### 30. Treasury denies Healey plan to cut welfare bill before election, claiming his comments were misinterpreted – UK politics live
+### 23. Foreign firms that win defence contracts will have to invest in UK under new policy – UK politics live
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news)
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates)
+
+### 24. ‘Scared of crossing the border’: The Arizona farmers who rely on Mexican workers
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/americas/20261030-scared-of-crossing-the-border-the-arizona-farmers-who-rely-on-mexican-workers)
+
+### 25. Man who ran over cyclist and dragged him under car for a mile convicted of murder
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/oct/30/cyclist-murder-manchester-simon-richardson-michael-mullins)
+
+### 26. James Comey lawyers seek to have third criminal case dismissed
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/30/james-comey-leak-criminal-case-hearing)
+
+### 27. Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
+
+### 28. Sciopero a Napoli, sfogliatelle alla polizia: 'Non siete voi il problema'
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/30/sciopero-a-napoli-sfogliatelle-alla-polizia-non-siete-voi-il-problema_21d283ac-f8a4-472b-9346-72f08b62d7ae.html)
+
+### 29. Il risparmio nella società che cambia, l'evento all'Acri. Panetta: "L'economia tiene ma rischi da prezzi e tassi". Patuelli: "La Manovra preoccupa". Giorgetti: "È prudente, più di quanto molti avrebbero voluto"
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/10/30/il-risparmio-nella-societa-che-cambia-levento-allacri.-panetta-leconomia-tiene_b5252b0c-c7eb-4894-911f-9ac6fdd19838.html)
+
+### 30. Sciopero generale in tutto il Paese. A Milano cortei riuniti. Tre feriti a Vicenza negli scontri
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/30/sciopero-generale-in-tutto-il-paese.-a-milano-cortei-riuniti.-tre-feriti-a-vicenza_a6c5a68a-dc6a-450e-9dac-8c7c47dc898a.html)
