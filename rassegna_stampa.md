@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 31/10/2026 alle 12:09 UTC_
+_Generata automaticamente il 01/11/2026 alle 13:08 UTC_
 
 ---
 
-### 1. Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years
-- **Fonti che ne parlano:** BBC World, Euronews, France24
-- **Link:** [Euronews](https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years)
+### 1. Indian opposition parties stage mega rally seeking election chief’s resignation
+- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle), France24
+- **Link:** [France24](https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation)
 
-### 2. Christa Pike describes 'pain in my mind and in my soul' in first statement after failed execution
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/10/30/christa-pike-describes-pain-in-my-mind-and-in-my-soul-in-first-statement-after-failed-exec)
+### 2. Binance resumes customer withdrawals after record $6.3bn hack
+- **Fonti che ne parlano:** Al Jazeera, BBC World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
 
-### 3. Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine
-- **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss)
+### 3. Residents from Russian-occupied Oleshky reunite with families after evacuation operation
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24, New York Times World
+- **Link:** [France24](https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine)
 
-### 4. Third weekend of protests in France
+### 4. 🔴Senegal kicks off Africa's first ever Olympics with Youth Games
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [France24](https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games)
+
+### 5. More than 290 arrested in France as some weekend protests turn violent
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf)
+
+### 6. Bulgarians vote in highly polarized presidential runoff overshadowed by Ukraine war
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf)
+
+### 7. Photos: Youth-led rallies sweep Germany
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [Al Jazeera](https://www.aljazeera.com/gallery/2026/11/1/photos-youth-led-rallies-sweep-germany?traffic_source=rss)
+
+### 8. French officials eye social media’s role in promoting unrest.
 - **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/third-weekend-of-protests-in-france)
+- **Link:** [New York Times World](https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest)
 
-### 5. Riot police deployed to Poland’s constitutional court after judge suspended
-- **Fonti che ne parlano:** Al Jazeera, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended)
+### 9. Hundreds of thousands of protesters march across France for third week in a row
+- **Fonti che ne parlano:** France24, Politico Europe
+- **Link:** [Politico Europe](https://www.politico.eu/article/france-youth-protests-cost-of-living-spread-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-### 6. Italy: Thousands protest rising living costs and defence spending in general strike
-- **Fonti che ne parlano:** Al Jazeera, Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike)
+### 10. Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss)
 
-### 7. Poland: Protesters clash with police over sacked court chief
+### 11. FBI says North Korea behind $6 billion Binance crypto theft
 - **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf)
 
-### 8. US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia)
+### 12. Some 320,000 demonstrators take part in largely peaceful protests across France
+- **Fonti che ne parlano:** BBC World, France24
+- **Link:** [France24](https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france)
 
-### 9. Carney Commits Canada to Becoming European Union’s First ‘Associate Member’
-- **Fonti che ne parlano:** New York Times World, Politico Europe
-- **Link:** [New York Times World](https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html)
+### 13. Police deployed during stand-off over control of top Poland court
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss)
 
-### 10. Binance crypto exchange suspends trades over North Korea-linked hack
-- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf)
-
-### 11. Germany takes cautious approach on Israeli election results
-- **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-all-1573-rdf)
-
-### 12. China rejects report of spy plot targeting Nvidia's Jensen Huang
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/10/30/china-rejects-report-of-spy-plot-targeting-nvidias-jensen-huang)
-
-### 13. Mosca: 'Kiev ha violato la tregua a Oleshky. Zelensky: 'I 500 Patriot Usa tra qualche anno, ma dobbiamo difenderci questo inverno'
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/31/zelensky-i-500-patriot-usa-tra-qualche-anno-ma-dobbiamo-difenderci-questo_bae448a2-c0d3-44e5-9cdd-029b563447d2.html)
-
-### 14. Plan for More Protests, This Time on Halloween, Causes Jitters in France
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween)
-
-### 15. Cortei, 60 perquisizioni in 23 città
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-60-perquisizioni-in-23-citta-_449404aa-1c37-4c96-aa63-5089df5221ae.html)
-
-### 16. Healey to veto new offshore wind projects if they will not lower bills
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto)
-
-### 17. L'ayatollah Khamenei agli Usa: 'Risponderemo a ogni minaccia'
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/31/layatollah-khamenei-agli-usa-risponderemo-a-ogni-minaccia-_3cf54edb-3eec-4388-ae57-c19b268c5d39.html)
-
-### 18. Polonia, il presidente convoca i colloqui per calmare la crisi sulla Corte costituzionale
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/31/tensioni-e-proteste-in-polonia-dopo-la-sospensione-del-presidente-corte-costituzionale_630b4c01-47af-4b69-b140-f20f02ecdc20.html)
-
-### 19. Fuga da Oleshky con valigie e cani, ma c'è chi sceglie di restare
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/30/fuga-da-oleshky-con-valigie-e-cani-ma-ce-chi-sceglie-di-restare_c0726186-7a55-4e09-a9c1-8bbb24635f55.html)
-
-### 20. Train Disaster Is a Blow to Spain’s Leader, Already an Election Underdog
-- **Fonti che ne parlano:** New York Times World
+### 14. Train Disaster Is Blow to Spain’s Leader, Already Election Underdog
+- **Fonti che ne parlano:** BBC World, New York Times World
 - **Link:** [New York Times World](https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html)
 
-### 21. UN closes Somalia mission, ending three decades of political engagement
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss)
+### 15. Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery
+- **Fonti che ne parlano:** New York Times World, Politico Europe
+- **Link:** [New York Times World](https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html)
 
-### 22. France and Germany braced for unrest with hundreds of demonstrations planned – Europe live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates)
+### 16. Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years
+- **Fonti che ne parlano:** Euronews, Politico Europe
+- **Link:** [Euronews](https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years)
 
-### 23. I rottami tra i campi: 'Il coraggio dei piloti ha evitato la strage'
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/10/30/i-rottami-tra-i-campi-coraggio-piloti-ha-evitato-la-strage_bb4e99a4-c620-4f9b-8e96-9ba0044d224f.html)
-
-### 24. San Giuliano di Puglia, commemorate le vittime del crollo della scuola
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/31/san-giuliano-di-puglia-consiglio-molise-commemora-vittime-crollo-scuola_104540e2-a5c7-4c86-bc39-0bae05fc63a8.html)
-
-### 25. Do tough laws deter drug crimes? Lessons from Singapore and Malaysia
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss)
-
-### 26. Il Principe d'Egitto, il musical è arrivato a Roma
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/videogallery/spettacolo/2026/10/31/il-principe-degitto-il-musical-e-arrivato-a-roma_2e22b9ad-862e-499f-9182-cf8035a8321c.html)
-
-### 27. Germany news: Merz hopes for Korean reunification at DMZ
+### 17. Ethnic Germans in Kazakhstan face legacy of the Soviet Union
 - **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-news-merz-hopes-for-korean-reunification-at-dmz/live-79803462?maca=en-rss-en-all-1573-rdf)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-all-1573-rdf)
 
-### 28. Binance hit by 6.3 billion dollar crypto theft
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft)
+### 18. Manovra: bonus confermato, più soldi in busta paga a chi rinvia la pensione
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-bonus-giorgetti-confermato-piu-soldi-in-busta-paga-a-chi-rinvia_20031262-e476-45eb-82ee-0356dd37c56f.html)
 
-### 29. France's Nunez warns of high risk during protests
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/france-s-nunez-warns-of-high-risk-during-protests)
+### 19. MotoGp: Marc Marquez vince a Sepang ed ipoteca il mondiale
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/sport/moto/2026/11/01/motogp-marc-marquez-vince-il-gp-della-malesia_08a0a29e-b250-4c87-95a2-04a44eeac9fb.html)
 
-### 30. UFC champion Islam Makhachev says his next fight will be ‘one of last’
+### 20. Serie A: Como-Venezia in campo 1-0 DIRETTA
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-como-venezia-in-campo-alle-12.30-diretta_a920b962-89a5-4f32-b8f3-023f78b59d42.html)
+
+### 21. Flags, banners and chants at youth protest in Berlin
+- **Fonti che ne parlano:** Euronews
+- **Link:** [Euronews](https://www.euronews.com/video/2026/11/01/flags-banners-and-chants-at-youth-protest-in-berlin)
+
+### 22. John Healey says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates)
+
+### 23. Elicottero caduto in Bosnia, domani il rientro delle salme in Italia
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/11/01/elicottero-caduto-in-bosnia-domani-il-rientro-delle-salme-in-italia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html)
+
+### 24. Yamaha pulls out of Qatar MotoGP over ‘situation in the Middle East’
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/31/islam-makhachev-ufc-welterweight-title-one-of-last-fight-prates-morales?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss)
+
+### 25. Germany news: Gen Z group calls for new protests
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf)
+
+### 26. Biological weapons: The weaponization of disease
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662?maca=en-rss-en-all-1573-rdf)
+
+### 27. Herzog: 'Mercoledì i dati ufficiali del voto, poi al via le consultazioni'
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/herzog-mercoledi-i-dati-ufficiali-del-voto-poi-al-via-le-consultazioni_9aa5e803-daf0-4591-b0c6-ea26ce02a358.html)
+
+### 28. Fire engulfs hotel in Nepal along Everest Base Camp route
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/1/fire-engulfs-hotel-in-nepal-along-everest-base-camp-route?traffic_source=rss)
+
+### 29. Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again
+- **Fonti che ne parlano:** Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again)
+
+### 30. High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole)
