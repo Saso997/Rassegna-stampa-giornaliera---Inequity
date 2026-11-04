@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 03/11/2026 alle 14:00 UTC_
+_Generata automaticamente il 04/11/2026 alle 14:16 UTC_
 
 ---
 
-### 1. What might Trump have planned for Iran following the midterm election?
-- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle), Euronews, New York Times World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf)
+### 1. Spanish economy minister takes over transport ministry after deadly crash
+- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle), New York Times World, Politico Europe
+- **Link:** [Politico Europe](https://www.politico.eu/article/spanish-economy-minister-takes-over-transport-ministry-after-deadly-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-### 2. US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), Euronews, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting)
+### 2. ‘Seismic shift’: World reacts to US midterm election results
+- **Fonti che ne parlano:** Al Jazeera, BBC World, Euronews
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss)
 
-### 3. Trump Removes South Africa From the African Growth and Opportunity Act Trade Program
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html)
+### 3. Countries Weigh, and Worry About, What Trump Will Do After Midterm Defeat
+- **Fonti che ne parlano:** BBC World, France24, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html)
 
-### 4. North Korea slams FBI claims it was behind €5bn Binance hack and test fires missiles
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/03/north-korea-slams-fbi-claims-it-was-behind-5bn-binance-hack-and-test-fires-missiles)
+### 4. Israel vote results confirmed as election commission rejects fraud claims
+- **Fonti che ne parlano:** Al Jazeera, Euronews, The Guardian World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims?traffic_source=rss)
 
-### 5. US: Trump labels Democrats 'dangerous' ahead of midterms
-- **Fonti che ne parlano:** DW (Deutsche Welle), Politico Europe
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/us-trump-labels-democrats-dangerous-ahead-of-midterms/a-79834945?maca=en-rss-en-all-1573-rdf)
+### 5. Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator
+- **Fonti che ne parlano:** BBC World, Euronews, France24
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss)
 
-### 6. Indian tourist killed after two helicopters collide near Everest base camp
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss)
+### 6. US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump
+- **Fonti che ne parlano:** Euronews, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates)
 
-### 7. Russia bombs humanitarian hub in Ukraine, killing at least 31 people
-- **Fonti che ne parlano:** New York Times World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha)
+### 7. ANC faces anger over poor services as South Africans vote in local elections
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
 
-### 8. Asian Cup postponed in wake of attacks on Saudi Arabia
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss)
+### 8. Musk makes light of defeats after record spend on Republican candidates
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/musk-makes-light-of-defeats-after-record-spend-on-republican-candidates?traffic_source=rss)
 
-### 9. Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper
+### 9. U.K. Supreme Court Hears Challenge to Ban on Palestine Action: What to Know
+- **Fonti che ne parlano:** Al Jazeera, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html)
+
+### 10. What consequences for Israel as Democrats win the US midterm elections?
+- **Fonti che ne parlano:** France24, Politico Europe
+- **Link:** [France24](https://www.france24.com/en/video/20261104-what-consequences-for-israel-as-democrats-win-the-us-midterm-elections)
+
+### 11. US midterm elections: Cheers erupt as Talarico's Texas victory is projected
+- **Fonti che ne parlano:** Euronews, France24
+- **Link:** [Euronews](https://www.euronews.com/video/2026/11/04/us-midterm-elections-cheers-erupt-as-talaricos-texas-victory-is-projected)
+
+### 12. Democrats win control of House and Senate: Key US midterms takeaways
 - **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss)
 
-### 10. Australia’s social media ban ‘ill-thought-out’, Reddit argues in high court challenge
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court)
+### 13. Trump’s troubles with Iran could open the door to China
+- **Fonti che ne parlano:** Politico Europe, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping)
 
-### 11. Supreme Court rejects Trump's request to stop California counting disputed votes
+### 14. How America voted in maps and charts
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss)
+
+### 15. Talarico strappa il seggio del Senato in Texas, i dem non vincevano dal 1988
+- **Fonti che ne parlano:** ANSA, BBC World
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/media-talarico-strappa-seggio-senato-in-texas-dove-i-dem-non-vincevano_a89d50fa-59a8-4a32-ae49-4a7e48b78a11.html)
+
+### 16. Trump says US will end military aid to Israel as Americans vote in midterms
+- **Fonti che ne parlano:** Euronews, The Guardian World
+- **Link:** [Euronews](https://www.euronews.com/2026/11/03/trump-says-us-will-end-military-aid-to-israel-as-americans-vote-in-midterms)
+
+### 17. How sporting events are being affected by Middle East conflict
 - **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss)
-
-### 12. British adventurer returns home after 28-year journey around the world
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/02/british-adventurer-returns-home-after-28-year-journey-around-the-world)
-
-### 13. Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html)
-
-### 14. European supermarkets targeted in second reported cyberattack
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-rdf)
-
-### 15. Kimi Antonelli becomes youngest F1 champion as Max Verstappen wins race
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/02/kimi-antonelli-becomes-youngest-f1-champion-as-max-verstappen-wins-race)
-
-### 16. Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss)
-
-### 17. Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news)
+- **Link:** [BBC World](https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss)
 
 ### 18. US strikes Iran’s Qeshm Island as Vance voices optimism about a deal
-- **Fonti che ne parlano:** The Guardian World
+- **Fonti che ne parlano:** Euronews, The Guardian World
 - **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island)
 
-### 19. Ex-Reform UK MP cleared after standards watchdog overruled over N-word rules breach – UK politics live
+### 19. Yemeni government forces claim control of strategic al-Jawf mountain range
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss)
+
+### 20. Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news)
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war)
 
-### 20. Trump: a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/11/03/trump-a-fine-anno-stop-agli-aiuti-militari-a-israele-accordo-con_cd70affe-74b5-45ff-b276-4fc6e24ef1c2.html)
-
-### 21. Midterm, l'America al voto: lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania. LA DIRETTA
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-nel-vermont-sono-aperti-i-seggi.-la-diretta_cac22026-2d64-44b0-8b5f-ee46bcd00316.html)
-
-### 22. Morto Jesus de Miguel, attaccante del Tenerife, dopo uno scontro in campo
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/sport/2026/11/03/morto-lattaccante-del-tenerife-jesus-de-miguel-dopo-uno-scontro-in-campo_27fae93b-4eda-4925-935d-392e58407bf2.html)
-
-### 23. Mattarella ai militari: "Con la Costituzione si esprime la vostra etica"
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/11/03/mattarella-ai-militari-con-la-costituzione-si-esprime-la-vostra-etica_40e4cb7d-9452-4872-ad6f-3982a0a63655.html)
-
-### 24. Jet may have broken apart before Florida crash, officials say, as family named among victims
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss)
-
-### 25. Ex Ilva, al via lo spegnimento degli altiforni
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ex-ilva-al-via-lo-spegnimento-degli-altiforni-_3908cffc-1580-4da5-80be-6e2132624726.html)
-
-### 26. Federal judge dismisses Trump lawsuit seeking Harvard admissions data
+### 21. Endangered giant burrowing frog returns to wild after tadpoles rescued from ashes of black summer fires
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/education/2026/nov/03/harvard-trump-lawsuit-dismissed-admissions-data)
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/nov/05/giant-burrowing-frog-returns-to-wild-after-tadpoles-rescued-black-summer-fires-australia)
 
-### 27. Point taken
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/sponsored-content/point-taken/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 28. Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans
+### 22. Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans)
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai)
 
-### 29. Riunione a Palazzo Chigi dopo gli attacchi hacker ai supermercati: 'Massima allerta, ma nessun allarme'
+### 23. Australia has an especially bad inflation problem. So why are we only middle-of-the pack on the misery index?
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/nov/05/australian-economy-inflation-cost-of-living-misery-index)
+
+### 24. ‘Discontent and distrust’: annual social cohesion checkup shows exactly what’s making Australia angry
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb)
+
+### 25. Muslim Votes Matter softens anti-Labor stance ahead of Victorian election in bid to defeat One Nation in at-risk seats
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/australia-news/2026/nov/05/muslim-votes-matter-softens-anti-labor-stance-victoria-election-one-nation-ntwnfb)
+
+### 26. Francia, attacco ibrido a celle frigorifere con sangue di donatori
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/11/03/riunione-a-palazzo-chigi-dopo-gli-attacchi-hacker-ai-supermercati-massima-allerta_0956464f-20d8-42c8-bfee-90ff08126b4b.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/04/francia-attacco-ibrido-a-celle-frigorifere-con-sangue-di-donatori_fc7ca66e-6ac2-47d7-8e20-74a039e2696b.html)
 
-### 30. Qatar sees 'hope' for US-Iran deal despite fresh US strikes as mediators exchange proposals in real time
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-)
+### 27. Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – UK politics live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news)
+
+### 28. How big is the Republican midterms loss, and is there a silver lining?
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss)
+
+### 29. Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html)
+
+### 30. Midterm: i Democratici conquistano il Congresso e strappano governatori chiave - LIVEBLOG
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-i-democratici-conquistano-il-congresso-e-strappano-governatori-chiave-liveblog_9fe187a6-3703-47e5-aef0-0d50b44ec158.html)
