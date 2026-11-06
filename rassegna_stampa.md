@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 05/11/2026 alle 14:29 UTC_
+_Generata automaticamente il 06/11/2026 alle 14:07 UTC_
 
 ---
 
-### 1. Multiple planes diverted as bomb threats to commercial flights reported across Europe – live
-- **Fonti che ne parlano:** Al Jazeera, France24, New York Times World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates)
+### 1. Kenyan doomsday cult leader given life sentence for murdering 191 people
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss)
 
-### 2. Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, France24, The Guardian World
+### 2. Hoax or bomb threats? What we know about flight disruptions across Europe
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), The Guardian World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss)
+
+### 3. What to know about the presidential wiretapping scandal rocking Indonesia
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss)
+
+### 4. Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason
+- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss)
+
+### 5. Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), The Guardian World
 - **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case)
 
-### 3. Cristiano Ronaldo si ritira dalla nazionale: 'Volevo essere il migliore'
-- **Fonti che ne parlano:** ANSA, Al Jazeera, DW (Deutsche Welle)
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/calcio-cristiano-ronaldo-si-ritira-dalla-nazionale-volevo-essere-il-migliore_3efdf0ea-77a5-4521-ac2b-92d4f0bca06e.html)
+### 6. Paraguayan president resigns amid bank collapse leaving 3M people without access to bank accounts
+- **Fonti che ne parlano:** BBC World, Euronews, New York Times World
+- **Link:** [Euronews](https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a)
 
-### 4. Democrats win control of US Congress in midterm rejection of Trump presidency
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party)
-
-### 5. Fact check: Examining viral narratives after the US midterm elections
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), France24
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311?maca=en-rss-en-all-1573-rdf)
-
-### 6. Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html)
-
-### 7. Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html)
-
-### 8. As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War
-- **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html)
-
-### 9. Police bodycam captures moments before deadly Russian strike in Ukraine
-- **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss)
-
-### 10. France holds new strikes and protests as unions demand immediate answers
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss)
-
-### 11. After Riots and Protests, French Workers Are Going on Strike
-- **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html)
-
-### 12. South Korea says it will expand naval operations closer to strait of Hormuz
-- **Fonti che ne parlano:** Euronews, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz)
-
-### 13. North Korea tells EU to 'mind its own business' after draft UN resolution on human rights
+### 7. Netherlands: Protesters storm Amsterdam data centre construction site
 - **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/05/north-korea-tells-eu-to-mind-its-own-business-after-draft-un-resolution-on-human-rights)
+- **Link:** [Euronews](https://www.euronews.com/video/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site)
 
-### 14. Ukraine: 33 dead, over 50 missing after Russian bombing in Zaporizhzhia
-- **Fonti che ne parlano:** Euronews, France24
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia)
+### 8. Hoax bomb threats target European airlines and airports for second time in a week
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss)
 
-### 15. Israel’s President Could Play Key Role in Breaking Post-Election Deadlock
-- **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html)
+### 9. US Republicans face reckoning after major midterm election defeat
+- **Fonti che ne parlano:** BBC World, France24
+- **Link:** [France24](https://www.france24.com/en/video/20261106-us-republicans-face-reckoning-after-major-midterm-election-defeat)
 
-### 16. Hubert Aiwanger, prominent German politician, found dead in Berlin hotel
-- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel)
+### 10. California governor commutes sentences for state's 548 death row inmates
+- **Fonti che ne parlano:** BBC World, France24
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss)
 
-### 17. Mother and daughter killed in grizzly bear attack, Canadian authorities confirm
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed)
+### 11. US judge halts construction of Trump’s triumphal arch in Washington, DC
+- **Fonti che ne parlano:** Al Jazeera, Euronews
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss)
 
-### 18. Israel’s election commission rejects Netanyahu claims of voting fraud
-- **Fonti che ne parlano:** Euronews, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud)
+### 12. Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike
+- **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html)
 
-### 19. British comedian Russell Brand found guilty of rape, sexual assault
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault)
+### 13. Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss)
 
-### 20. Burnham says long-awaited 10-year plan may be delayed until January – UK politics live
+### 14. 12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html)
+
+### 15. Hong Kong democracy activist Joshua Wong sentenced to 10 more years for collusion
+- **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [Euronews](https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion)
+
+### 16. Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-rdf)
+
+### 17. UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – UK politics live
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour)
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news)
 
-### 21. Meloni urges ‘disorganized’ EU to speak with one voice on Ukraine
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 22. France faces new protests as government seeks to prevent violence
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/france-faces-new-protests-as-government-seeks-to-prevent-violence)
-
-### 23. Nuova ondata di allarmi bomba sui voli, segnalati da una mail in italiano. Informative alle procure
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/05/nuova-ondata-di-allarmi-bomba-sui-voli-segnalati-da-una-mail-in-italiano._746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html)
-
-### 24. Cyberattack: French bank says online hacking stole around $100 million
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million)
-
-### 25. US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race)
-
-### 26. France: Up to 55,000 march in Lyon amid clashes and tear gas
+### 18. Azerbaijan and Ukraine forge new energy defence and trade agreements
 - **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/05/france-up-to-55000-march-in-lyon-amid-clashes-and-tear-gas)
+- **Link:** [Euronews](https://www.euronews.com/2026/11/06/azerbaijan-and-ukraine-forge-new-energy-defence-and-trade-agreements)
 
-### 27. Mélenchon’s mission for his young fans: Debate boomers on Facebook
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/france-jean-luc-melenchon-mission-for-his-young-fans-debate-boomers-on-facebook/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 28. ‘It’s kind of a melting pot’: how one US city transformed a highway into a leafy oasis
+### 19. EU charges TikTok with failing to protect users’ mental health
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/environment/2026/nov/05/lancaster-california-transformed-highway-leafy-oasis)
+- **Link:** [The Guardian World](https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health)
 
-### 29. I sindacati della scuola lanciano la mobilitazione, sit in l'11 novembre
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/11/05/i-sindacati-della-scuola-lanciano-la-mobilitazione-sit-in-l11-novembre_3188904d-1b3c-4505-943d-bde93cdf3946.html)
+### 20. Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas)
 
-### 30. La storia nell'armadio | Alla scoperta dei colori: il rosso
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/podcast/la-storia-nell-armadio/2026/11/05/la-storia-nellarmadio-alla-scoperta-dei-colori-il-rosso_15bf23f3-4d20-4a78-a3b8-5aabfe0dfe17.html)
+### 21. US job growth exceeds expectations in October despite economic uncertainty
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/nov/06/us-job-growth-october)
+
+### 22. Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us)
+
+### 23. US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates)
+
+### 24. Ukraine raises Zaporizhia aid strike death toll to at least 50
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss)
+
+### 25. Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – Europe live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live)
+
+### 26. Zambia's civil service overhaul raises questions
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-all-1573-rdf)
+
+### 27. Is Israel opposition figure Gadi Eisenkot going to replace Benjamin Netanyahu?
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/video/20261106-is-israel-opposition-figure-gadi-eisenkot-going-to-replace-benjamin-netanyahu)
+
+### 28. Portugal FA pledges to honour Cristiano Ronaldo as Jorge Jesus names squad
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss)
+
+### 29. Global temperatures are set to exceed 1.5 degrees above pre-industrial levels in 2026, likely the second-warmest year on record
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-all-1573-rdf)
+
+### 30. US Defence Secretary Pete Hegseth's future in question after midterms setback
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback)
