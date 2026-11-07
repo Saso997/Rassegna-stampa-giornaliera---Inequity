@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 06/11/2026 alle 14:07 UTC_
+_Generata automaticamente il 07/11/2026 alle 12:50 UTC_
 
 ---
 
-### 1. Kenyan doomsday cult leader given life sentence for murdering 191 people
+### 1. Paraguay places ousted president Peña under house arrest after bank collapse
+- **Fonti che ne parlano:** ANSA, BBC World, DW (Deutsche Welle), France24, New York Times World
+- **Link:** [France24](https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis)
+
+### 2. Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react)
+
+### 3. Kenyan doomsday sect leader jailed for 200 years for murder of 190 children
+- **Fonti che ne parlano:** BBC World, France24, New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie)
+
+### 4. Pope in 'pretty good health' as he starts Latin America tour
 - **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss)
 
-### 2. Hoax or bomb threats? What we know about flight disruptions across Europe
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), The Guardian World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss)
+### 5. Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html)
 
-### 3. What to know about the presidential wiretapping scandal rocking Indonesia
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss)
+### 6. Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated
+- **Fonti che ne parlano:** BBC World, New York Times World, Politico Europe
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html)
 
-### 4. Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason
-- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle)
+### 7. Ueno Bank scandal plunges Paraguay into political crisis
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf)
+
+### 8. ANC faces bruising defeat in South African local elections with 80% of ballots counted
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections)
+
+### 9. Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [France24](https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience)
+
+### 10. Giant pandas loaned by China make their public debut at US zoo
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [France24](https://www.france24.com/en/americas/20261107-giant-pandas-loaned-by-china-make-public-debut-at-us-zoo)
+
+### 11. US midterm results spark fears in Israel over future of two countries' ties
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss)
+
+### 12. Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss)
+
+### 13. Paraguay’s president quits after millions of people’s savings frozen in bank crisis
+- **Fonti che ne parlano:** New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns)
+
+### 14. Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason
+- **Fonti che ne parlano:** BBC World, New York Times World
 - **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss)
 
-### 5. Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case)
+### 15. Further bomb threats disrupt at least another 18 flights across Europe
+- **Fonti che ne parlano:** France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe)
 
-### 6. Paraguayan president resigns amid bank collapse leaving 3M people without access to bank accounts
-- **Fonti che ne parlano:** BBC World, Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a)
-
-### 7. Netherlands: Protesters storm Amsterdam data centre construction site
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site)
-
-### 8. Hoax bomb threats target European airlines and airports for second time in a week
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss)
-
-### 9. US Republicans face reckoning after major midterm election defeat
-- **Fonti che ne parlano:** BBC World, France24
-- **Link:** [France24](https://www.france24.com/en/video/20261106-us-republicans-face-reckoning-after-major-midterm-election-defeat)
-
-### 10. California governor commutes sentences for state's 548 death row inmates
-- **Fonti che ne parlano:** BBC World, France24
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss)
-
-### 11. US judge halts construction of Trump’s triumphal arch in Washington, DC
-- **Fonti che ne parlano:** Al Jazeera, Euronews
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss)
-
-### 12. Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html)
-
-### 13. Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
+### 16. Judge blocks construction of Trump's massive arch after federal agency approval
 - **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss)
 
-### 14. 12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html)
+### 17. Meloni contro le opposizioni per una foto falsa di Bonaccini su Tajani, l'autore rimuove il post
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/11/07/meloni-contro-le-opposizioni-per-una-foto-falsa-di-bonaccini-su-tajani-lautore_b1633ef8-9762-4035-b9a1-399a0396d526.html)
 
-### 15. Hong Kong democracy activist Joshua Wong sentenced to 10 more years for collusion
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion)
+### 18. This Israeli Vows to Oust Netanyahu. Here’s How.
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html)
 
-### 16. Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-rdf)
+### 19. Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html)
 
-### 17. UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – UK politics live
+### 20. MotoGp: Bezzecchi in pole in Qatar, secondo Marc Marquez
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/sport/moto/2026/11/07/-motogp-bezzecchi-in-pole-in-qatar-secondo-marc-marquez-_a7bad088-5238-4172-981d-04fc918955e0.html)
+
+### 21. Two men arrested after boy injured in Gloucester sword attack
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news)
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured)
 
-### 18. Azerbaijan and Ukraine forge new energy defence and trade agreements
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/06/azerbaijan-and-ukraine-forge-new-energy-defence-and-trade-agreements)
+### 22. ++ Accoltella la compagna e le frattura il cranio, arrestato ++
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/flash/2026/11/07/-accoltella-la-compagna-e-le-frattura-il-cranio-arrestato-_27474495-5978-42a0-ae4a-cbec848206ac.html)
 
-### 19. EU charges TikTok with failing to protect users’ mental health
+### 23. Gualtieri si ricandida al Campidoglio con il campo larghissimo
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/11/07/gualtieri-si-ricandida-al-campidoglio-con-il-campo-larghissimo_0f4fc042-27c3-44be-a704-866450fec849.html)
+
+### 24. New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health)
+- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
 
-### 20. Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas)
-
-### 21. US job growth exceeds expectations in October despite economic uncertainty
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/nov/06/us-job-growth-october)
-
-### 22. Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us)
-
-### 23. US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates)
-
-### 24. Ukraine raises Zaporizhia aid strike death toll to at least 50
+### 25. Pro-Russian hackers leak Italian foreign minister’s data on dark web
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss)
 
-### 25. Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – Europe live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live)
-
-### 26. Zambia's civil service overhaul raises questions
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-all-1573-rdf)
-
-### 27. Is Israel opposition figure Gadi Eisenkot going to replace Benjamin Netanyahu?
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/video/20261106-is-israel-opposition-figure-gadi-eisenkot-going-to-replace-benjamin-netanyahu)
-
-### 28. Portugal FA pledges to honour Cristiano Ronaldo as Jorge Jesus names squad
+### 26. Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss)
 
-### 29. Global temperatures are set to exceed 1.5 degrees above pre-industrial levels in 2026, likely the second-warmest year on record
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-all-1573-rdf)
+### 27. Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss)
 
-### 30. US Defence Secretary Pete Hegseth's future in question after midterms setback
+### 28. Four things we learned this week about 2028 White House race
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss)
+
+### 29. Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss)
+
+### 30. Russia launches massive strike on Kyiv
 - **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback)
+- **Link:** [France24](https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1)
