@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 12/11/2026 alle 15:00 UTC_
+_Generata automaticamente il 13/11/2026 alle 14:26 UTC_
 
 ---
 
-### 1. Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, France24, The Guardian World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-rdf)
+### 1. Watch: How a server outage took down Microsoft Teams and Outlook
+- **Fonti che ne parlano:** Al Jazeera, BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
 
-### 2. Israeli strike on Gaza hospital kills six Palestinians, health ministry says
-- **Fonti che ne parlano:** BBC World, New York Times World, The Guardian World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss)
+### 2. 🔴 Live: Microsoft reports 'improvements' to Outlook services in North America, Europe
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [France24](https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries)
 
-### 3. Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century
-- **Fonti che ne parlano:** Al Jazeera, BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss)
+### 3. Microsoft scrambles to fix global outage affecting Teams and Outlook
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports)
 
-### 4. Pope Leo XIV returns to Peru to a big welcome, calls it his 'homeland'
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, New York Times World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-rdf)
+### 4. UN watchdog calls on Iran to reopen nuclear facilities to inspection
+- **Fonti che ne parlano:** Al Jazeera, BBC World
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss)
 
-### 5. Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss)
+### 5. Nvidia: gli 007 americani non sono sicuri che Alice Huang sia una spia
+- **Fonti che ne parlano:** ANSA, France24
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/13/gli-007-americani-non-sono-sicuri-che-alice-huang-sia_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html)
 
-### 6. Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live
-- **Fonti che ne parlano:** ANSA, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest)
-
-### 7. Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen
+### 6. US Senate summons Nvidia’s Huang, Lutnick to testify
 - **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss)
 
-### 8. Europe views US with ‘much less horror’ after Trump’s midterms defeat
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat?traffic_source=rss)
-
-### 9. Australian teen missing in bush for six days rescued alive
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss)
-
-### 10. Indonesia's vice-president resigns amid signs ruling alliance is fraying
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss)
-
-### 11. Video shows soldier reprimanding Hegseth and advisers at Tomb of the Unknown Soldier
+### 7. Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy
 - **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/12/video-shows-soldier-reprimanding-hegseth-and-advisers-at-tomb-of-the-unknown-soldier)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
 
-### 12. Famed ship SS United States deliberately sunk off Florida coast to become a reef
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss)
-
-### 13. US soldier arrested in England on suspicion of spying for Russia
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia)
-
-### 14. Spain: Clashes erupt in Barcelona after peaceful general strike march
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/11/spain-clashes-erupt-in-barcelona-after-peaceful-general-strike-march)
-
-### 15. Trump’s defamation lawsuit against the BBC over Panorama edit can proceed, judge rules
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/11/trumps-defamation-lawsuit-against-the-bbc-over-panorama-edit-can-proceed-judge-rules)
-
-### 16. Russian ambassador to the US dies after a year and a half in the job
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced)
-
-### 17. Russian officer killed by car bomb in St Petersburg as murder investigation begins
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins)
-
-### 18. Zelenskyy demands Europe become ‘regular part’ of Ukraine talks
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/zelenskyy-demands-europe-become-regular-part-of-ukraine-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 19. Who is Alice Huang, the alleged Chinese spy linked to Nvidia's Jensen Huang?
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/12/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang)
-
-### 20. Who could replace Jensen Huang as Nvidia's permanent chief executive?
-- **Fonti che ne parlano:** BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss)
-
-### 21. Multiple people shot in Washington DC as police warn people to stay inside
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle)
-
-### 22. Brooklyn building collapse kills at least eight and injures 17 as search continues
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc)
-
-### 23. Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html)
-
-### 24. Armed robbers flee Paris De Beers store on motorcycles after jewellery heist
+### 8. The truth about Douma: How Syria covered up a chemical attack
 - **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/france/20261112-armed-robbers-flee-paris-de-beers-store-on-motorcycles-after-jewellery-heist)
+- **Link:** [France24](https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack)
 
-### 25. Ukraine meldet erneut Einschränkungen bei Starlink
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/ukraine-meldet-erneut-einschraenkungen-bei-starlink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+### 9. What does the 'Blue Tsunami' mean for US media?
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/scoop/20261113-what-does-the-blue-tsunami-mean-for-us-media)
 
-### 26. Nvidia board weighs Jensen Huang’s future: Can it remove its founder?
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss)
+### 10. Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer)
 
-### 27. In China’s Spy Operations, Romance Can Be a Long Game
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html)
-
-### 28. Migrant caravan sets out from southern Mexico bound for US after midterms
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss)
-
-### 29. On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html)
-
-### 30. Sparatoria in centro a Washington, quattro persone colpite
+### 11. Allarmi bomba, la circolare del Viminale: 'Minaccia inattendibile se attraverso mail seriali'
 - **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/12/sparatoria-in-centro-a-washington-quattro-persone-colpite_b3d1f241-30d3-48d2-80e0-b6f155a26c15.html)
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/11/13/circolare-viminale-minaccia-inattendibile-se-attraverso-mail-bombing_ca1d2b9c-c7e2-4e00-afb9-6dccb59191fb.html)
+
+### 12. Can Netanyahu launch a strike on Iran before he leaves?
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss)
+
+### 13. Ukraine claims record 3,000 Russian casualties in one day as war drags on
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss)
+
+### 14. Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates)
+
+### 15. Most Ukrainians 'think there's no chance of a peace deal' with Russia
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia)
+
+### 16. Row breaks out between Tories and Reform at Piddington news conference – UK politics live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates)
+
+### 17. 'A lot of emotion' as Paris marks 11 years since terror attacks
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/video/20261113-a-lot-of-emotion-as-paris-marks-11-years-since-terror-attacks)
+
+### 18. North Macedonia: Kriva Palanka seeks help over 1,000 free-roaming cows
+- **Fonti che ne parlano:** Euronews
+- **Link:** [Euronews](https://www.euronews.com/video/2026/11/13/north-macedonia-kriva-palanka-seeks-help-over-1000-free-roaming-cows)
+
+### 19. One of France’s Most Popular Athletes Is Running for President
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html)
+
+### 20. Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html)
+
+### 21. ‘Incredibly unusual’ bird migrating from Siberia found in Cumbria – killed by cat
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/nov/13/siberian-rubythroat-bird-migrating-siberia-cumbria-killed-by-cat)
+
+### 22. Taylor Swift, Ariana Grande e Sabrina Carpenter regine dei Kids' Choice Awards
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cultura/tv/2026/11/13/taylor-swift-ariana-grande-e-sabrina-carpenter-regine-dei-kids-choice_120fe708-a8ee-47ae-92d6-f0ff344e8ef6.html)
+
+### 23. Iran says it targeted US military radar in Bahrain in retaliatory strike
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz)
+
+### 24. #ioleggoperché, ultimo weekend di donazioni di libri alle biblioteche di scuole e nidi
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cultura/libri/2026/11/13/ioleggoperche-ultimo-weekend-di-donazioni-di-libri-alle-biblioteche-di-scuole-e-nidi_c9623f87-58d3-4c9d-bca9-2e29cbaf5c66.html)
+
+### 25. ‘So lovely’: Stevie Wonder surprises Stalybridge restaurant with late-night visit and £1,000 tip
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/music/2026/nov/13/stevie-wonder-stalybridge-restaurant-cafe-continental-1000-tip)
+
+### 26. UK rocked by comedians' sex scandals
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/the-51/20261113-uk-rocked-by-comedians-sex-scandals)
+
+### 27. Giorgetti alle parti sociali: 'Governo al lavoro sulla modifica dell'exit tax'
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/11/13/giorgetti-alle-parti-sociali-governo-al-lavoro-sulla-modifica-dellexit-tax_74ba2c0f-fd3f-47c9-b8c2-4aec76a05d5d.html)
+
+### 28. Outlook down, Microsoft: 'Servizi in miglioramento, ripristino a fasi'
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/13/outlook-down-microsoft-servizi-in-miglioramento-ripristino-a-fasi_820a9d7d-9b9d-4214-8537-0834b1378b3d.html)
+
+### 29. China warns against fresh US chip curbs
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss)
+
+### 30. UK’s biggest insurer hit by rise in subsidence claims after record hot summer
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa)
