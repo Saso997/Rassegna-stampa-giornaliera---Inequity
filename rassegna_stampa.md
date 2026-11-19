@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 18/11/2026 alle 15:30 UTC_
+_Generata automaticamente il 19/11/2026 alle 15:37 UTC_
 
 ---
 
-### 1. Live Updates: Trump, Xi and Putin Shake Hands as Leaders Gather in China
-- **Fonti che ne parlano:** BBC World, France24, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec)
+### 1. Myanmar committed genocide against Rohingya minority, world’s top court rules
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), Euronews, France24, New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar)
 
-### 2. Marco Rubio says no evidence recent tech outages in US are linked or 'nefarious'
-- **Fonti che ne parlano:** Euronews, France24, The Guardian World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/18/marco-rubio-says-no-evidence-recent-tech-outages-in-us-are-linked-or-nefarious)
+### 2. Trilateral summit ends with 'peace declaration' but no mention of Ukraine and Iran
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/11/19/us-and-china-want-to-help-end-ukraine-war-trump-says-ahead-of-trilateral-with-russia)
 
-### 3. ICJ to rule on Rohingya genocide case against Myanmar: What to know
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), New York Times World
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-rdf)
+### 3. Ukraine's allies attend 'Coalition of the Willing' summit in Berlin
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), The Guardian World
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/ukraine-s-allies-attend-coalition-of-the-willing-summit-in-berlin/live-79986520?maca=en-rss-en-all-1573-rdf)
 
-### 4. Trump arrives in China for unprecedented trilateral encounter with Xi and Putin
-- **Fonti che ne parlano:** Al Jazeera, Euronews, France24
+### 4. Florida pastor found guilty over role in assassination of Haitian president
+- **Fonti che ne parlano:** BBC World, New York Times World, The Guardian World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss)
+
+### 5. Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss)
+
+### 6. Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow
+- **Fonti che ne parlano:** DW (Deutsche Welle), Politico Europe
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-all-1573-rdf)
+
+### 7. South Korean court orders retrial for ex-PM Han over martial law attempt
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss)
+
+### 8. Trump and Putin shake hands ahead of high-stakes trilateral summit in China
+- **Fonti che ne parlano:** Euronews, France24
 - **Link:** [Euronews](https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin)
 
-### 5. US Democrats flip Alaska Senate seat as Mary Peltola wins race
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews, France24
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf)
+### 9. Denmark parliament approves security deal with Greenland and US
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss)
 
-### 6. Pakistani man sentenced to 27 years in US prison over Trump murder plot
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot)
+### 10. Israeli military launches new operation on central Gaza despite ceasefire
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire)
 
-### 7. North Korea completes external works on enrichment facility extension, says IAEA
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea)
-
-### 8. Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’
+### 11. Crimea bridge has been attacked again, says Russian-installed governor
 - **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china)
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine)
 
-### 9. Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html)
+### 12. Waymo pulls driverless taxis off US highways after California ban
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/11/18/waymo-pulls-driverless-taxis-off-us-highways-after-california-ban)
 
-### 10. Spagna, il tribunale apre una inchiesta su Julio Iglesias per violenza sessuale
-- **Fonti che ne parlano:** ANSA, The Guardian World
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/18/spagna-il-tribunale-apre-una-inchiesta-su-julio-iglesias-per-violenza-sessuale_389984b2-c4e7-45ff-bc25-05a9533da6b7.html)
+### 13. Russian arrested for spying on US defence company Palantir over Ukraine support
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss)
 
-### 11. A Visual Tour of President Trump’s Visits to Asia
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html)
-
-### 12. US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz
-- **Fonti che ne parlano:** Euronews, France24
-- **Link:** [Euronews](https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz)
-
-### 13. What to Know About APEC, ASEAN and the Quad
-- **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/17/world/asia/apec-asean-quad.html)
-
-### 14. Democrats win Alaska Senate race two weeks after midterms counting began
-- **Fonti che ne parlano:** BBC World, France24
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss)
-
-### 15. Israeli parliament elects new speaker backed by Netanyahu’s opponents
-- **Fonti che ne parlano:** France24, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents)
-
-### 16. Xi Jinping greets Trump with a hug and red carpet at Shenzhen airport
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/18/xi-jinping-greets-trump-with-a-hug-and-red-carpet-at-shenzhen-airport)
-
-### 17. Rubio says US not 'under systemic attack' after series of tech outages
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss)
-
-### 18. Nvidia says it won't reinstate Huang as it reports soaring sales
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss)
-
-### 19. Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says
-- **Fonti che ne parlano:** BBC World, The Guardian World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss)
-
-### 20. Moment Ukrainian drones strike the Kerch Bridge linking Crimea to Russia
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/17/moment-ukrainian-drones-strike-the-kerch-bridge-linking-crimea-to-russia)
-
-### 21. Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester)
-
-### 22. Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit
+### 14. A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.
 - **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html)
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html)
 
-### 23. Robots serve ice cream and coffee in China's tech hub
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/18/robots-serve-ice-cream-and-coffee-in-chinas-tech-hub)
-
-### 24. House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch speaker nomination – live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates)
-
-### 25. Burnham should fight next election on promise to rejoin EU, says Peter Kyle
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit)
-
-### 26. The Shadow of Yalta Hangs Over Trump’s Summit in China
+### 15. Live Updates: Trump, Xi and Putin Seek to Project Power at Their First Summit
 - **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html)
+- **Link:** [New York Times World](https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec)
 
-### 27. Burnham urges Badenoch to withdraw ‘crass’ comment defending disability cuts on grounds ‘amputees run marathons’ – UK politics live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates)
-
-### 28. Here’s the latest.
+### 16. Life in the Rohingya camps in Bangladesh is becoming more precarious.
 - **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest)
+- **Link:** [New York Times World](https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj)
 
-### 29. Officials seek dismissal of lawsuit over stabbing of Ukrainian refugee on train in Charlotte
+### 17. Here’s the latest.
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest)
+
+### 18. Gender pay gap: French women work "for free” from today
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/gender-pay-gap-french-women-work-for-free-from-today)
+
+### 19. 'GTA VI': A masterpiece? Fans react to gaming's biggest release
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/arts24/20261119-gta-vi-a-masterpiece-fans-react-to-gaming-s-biggest-release)
+
+### 20. Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live
 - **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/18/ukrainian-refugee-stabbing-lawsuit)
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates)
 
-### 30. 'Coalition of the Willing' meets in Berlin: In an era of waning support, Europe remains committed to Ukraine
+### 21. San Francisco breaks rain record as atmospheric river buffets California
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record)
+
+### 22. UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees)
+
+### 23. Alexander Zverev faces fresh lawsuit from ex-girlfriend
 - **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/coalition-of-the-willing-meets-in-berlin-in-an-era-of-waning-support-europe-remains-committed-to-ukraine/a-79974996?maca=en-rss-en-all-1573-rdf)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/alexander-zverev-faces-fresh-lawsuit-from-ex-girlfriend/a-79990005?maca=en-rss-en-all-1573-rdf)
+
+### 24. AI demand will push up interest rates around the world, IMF head warns
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec)
+
+### 25. The chocolate countdown: The art of the advent calendar
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/entre-nous/20261119-the-chocolate-countdown-the-art-of-the-advent-calendar)
+
+### 26. Trump, Xi, Putin summit: What was it all about?
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about)
+
+### 27. Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates)
+
+### 28. See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya)
+
+### 29. Behind the UK's use of AI in asylum applications
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications)
+
+### 30. Haiti: Salvador’s Bukele publishes video of attack on gang leader’s house
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house)
