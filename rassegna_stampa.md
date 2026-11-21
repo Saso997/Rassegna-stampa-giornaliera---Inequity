@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 20/11/2026 alle 15:17 UTC_
+_Generata automaticamente il 21/11/2026 alle 14:31 UTC_
 
 ---
 
-### 1. Myanmar committed genocide against Rohingya minority, world’s top court rules
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), Euronews, New York Times World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar)
+### 1. French police officers found guilty of racist assault on black music producer
+- **Fonti che ne parlano:** Al Jazeera, BBC World, France24, New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer)
 
-### 2. White House removes cyber-security chief after series of tech outages
-- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle), Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss)
+### 2. Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper
+- **Fonti che ne parlano:** BBC World, France24, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing)
 
-### 3. Cincinnati Zoo's famed Fiona the hippo dies days after eating a visitor’s hat
-- **Fonti che ne parlano:** BBC World, Euronews, France24
-- **Link:** [France24](https://www.france24.com/en/video/20261120-cincinnati-zoo-s-famed-fiona-the-hippo-dies-days-after-eating-a-visitor-s-hat)
+### 3. Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence
+- **Fonti che ne parlano:** Al Jazeera, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence)
 
-### 4. China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars
-- **Fonti che ne parlano:** BBC World, Euronews, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars)
+### 4. White House national cyber director fired after wave of tech outages
+- **Fonti che ne parlano:** Euronews, The Guardian World
+- **Link:** [Euronews](https://www.euronews.com/2026/11/20/white-house-national-cyber-director-fired-after-wave-of-tech-outages)
 
-### 5. Tusk: 'L'incursione nel nostro spazio aereo una provocazione intenzionale russa"
-- **Fonti che ne parlano:** ANSA, Politico Europe
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/20/tusk-lincursione-nel-nostro-spazio-aereo-una-provocazione-intenzionale-russa_6104402c-305d-441e-a983-2c8dfb41bd5e.html)
+### 5. Russian missiles hit Poland: What happened, and could NATO respond?
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss)
 
-### 6. Germany face belgium in Nations League quarterfinals — Klopp plays down favorites tag
-- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794?maca=en-rss-en-all-1573-rdf)
-
-### 7. What does the ICJ’s Rohingya genocide ruling mean for Gaza?
-- **Fonti che ne parlano:** Al Jazeera, New York Times World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss)
-
-### 8. 🔴 France seeks UN Security Council meeting after Russian strikes hit European embassies in Kyiv
-- **Fonti che ne parlano:** Euronews, France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says)
-
-### 9. At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home
-- **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html)
-
-### 10. 'Coalition of the Willing': Ukraine's allies meet in Berlin after Trump-Putin-Xi talks
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [France24](https://www.france24.com/en/video/20261120-coalition-of-the-willing-ukraine-s-allies-meet-in-berlin-after-trump-putin-xi-talks)
-
-### 11. At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain
+### 6. Fight over fossil fuels leaves COP31 climate talks in deadlock
 - **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
 
-### 12. Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss)
+### 7. What we know about the latest Russian missile strikes on Ukraine
+- **Fonti che ne parlano:** BBC World, France24
+- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss)
 
-### 13. Florida pastor found guilty over role in assassination of Haitian president
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss)
+### 8. EU and UK strike 'landmark deal' to strengthen ties after Brexit
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-rdf)
 
-### 14. Measles in America: Here's a constructive approach to beating the highly contagious disease, based on Brazil's experience
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/measles-in-america-here-s-a-constructive-approach-to-beating-the-highly-contagious-disease-based-on-brazil-s-experience/a-79990626?maca=en-rss-en-all-1573-rdf)
+### 9. Pentagon declassifies new UFO footage filmed by US military
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/11/21/pentagon-declassifies-new-ufo-footage-filmed-by-us-military)
 
-### 15. Ukraine: Rescue teams search wreckage after deadly Russian strike on Kyiv
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/20/ukraine-rescue-teams-search-wreckage-after-deadly-russian-strike-on-kyiv)
+### 10. Putin a 'killer,' Zelenskyy says after Trump calls Russian leader his 'friend'
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend)
 
-### 16. US Senate approves bill to speed up permitting reviews for energy projects and datacenters
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill)
+### 11. Man convicted of arson over deadly 2025 Palisades fire in Los Angeles
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf)
 
-### 17. Far-right activist Daniel Thomas jailed for slashing dinghy in Channel
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel)
+### 12. Mamdani announces plan to close New York's Rikers Island jail by 2032
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss)
 
-### 18. ‘Forever our Fiona’: fans of the famous hippo mourn her death at zoo
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/20/fiona-hippo-death-shrine-tributes-hat-cincinnati-zoo)
+### 13. Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house)
 
-### 19. ‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.
+### 14. Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist)
+
+### 15. Al ReWriters Fest si parla di donne pioniere e inventrici, linguaggio e mascolinità tossica
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/donne/notizie/2026/11/20/al-rewriters-fest-donne-pioniere-e-inventrici-linguaggio-e-mascolinita-tossica_d628dd3d-8409-4158-8962-16e79c4a6ed1.html)
+
+### 16. A Butler School in the Netherlands Offers Entry Into a Gilded World
 - **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html)
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html)
 
-### 20. NYC mayor unveils plan to close notorious Rikers Island jail by 2032
-- **Fonti che ne parlano:** Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/20/nyc-mayor-unveils-plan-to-close-notorious-rikers-island-jail-by-2032)
-
-### 21. Is Pakistan backing anti-Taliban groups in Afghanistan?
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-all-1573-rdf)
-
-### 22. ‘You can’t get experience if no one’s employing you’: the vicious circle facing Blackpool’s Neets
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle)
-
-### 23. ‘A source of inspiration’: series of public events celebrate life of Dolores Huerta
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california)
-
-### 24. ++ La Russa, martedì nuova commissione Vigilanza Rai se Fontana è d'accordo ++
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/flash/2026/11/20/la-russa-martedi-nuova-commissione-vigilanza-rai-se-fontana-e-daccordo_022ded84-2c7f-43fa-afcc-79b3f7e0bd72.html)
-
-### 25. ‘Gloucestershire nouveau’: UK vineyard uncorks its 2026 answer to beaujolais
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau)
-
-### 26. Britain Announces Brexit Reset Deal at E.U. Summit: What to Know
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html)
-
-### 27. Jamaica's beaches are increasingly off limits to locals
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/tv-shows/reporters/20261120-jamaica-beaches-off-limits-to-locals-property-developers-hotels)
-
-### 28. Sciopero generale, le piazze da Milano a Napoli. Manifestano anche gli studenti
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html)
-
-### 29. A Roma petardi e bottiglie contro il ministero dell'Istruzione. Tensione polizia-attivisti a Bologna
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/11/20/petardi-contro-il-ministero-due-studenti-in-dissenso-tra-i-poliziotti_81ec06b5-2dba-4b72-b8d1-f0341d4535cb.html)
-
-### 30. Saudi coalition and Houthis exchange threats to bomb key ports
+### 17. Could Iran reverse its stated policy of a civil-only nuclear programme?
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss)
+
+### 18. Catherine, Princess of Wales, Documents Life With Cancer in BBC Film
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html)
+
+### 19. Orcel: "Unicredit crescerà ancora, ma la sede resterà a Milano"
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/economia/2026/11/21/orcel-unicredit-crescera-ancora-ma-la-sede-restera-a-milano_0ee15d45-b006-4a35-97dd-9877ae1e333d.html)
+
+### 20. Jerusalem Daily: Gaza faces deadly strikes and health crisis
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss)
+
+### 21. Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html)
+
+### 22. L'ex capo della Polizia De Gennaro si è ucciso sparandosi. La procura indaga per istigazione al suicidio
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html)
+
+### 23. Passa 13 giorni in carcere per omonimia
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/emiliaromagna/notizie/2026/11/21/passa-13-giorni-in-carcere-per-omonimia_dc4e0738-af7b-4209-befe-36b9bd339782.html)
+
+### 24. La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html)
+
+### 25. Cresce l'allarme sulle truffe cyber in vista del Black Friday
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/11/21/cresce-lallarme-sulle-truffe-cyber-in-vista-del-black-friday_ce7e5b47-8775-4d58-b7af-71c8aecf38f6.html)
+
+### 26. Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html)
+
+### 27. U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html)
+
+### 28. Capo della Polizia, poi 007: la vita di Gianni De Gennaro nelle foto d'archivio
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/photogallery/primopiano/2026/11/21/capo-della-polizia-poi-007-la-vita-di-gianni-de-gennaro-nelle-foto_3948a551-2975-420c-aa7c-ac4b28509bfb.html)
+
+### 29. Serie A: Como-Cagliari in campo sabato alle 15 DIRETTA
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-como-cagliari-in-campo-sabato-alle-15-diretta_4b3e2afb-bd7a-45ec-9fa2-c85122e95160.html)
+
+### 30. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
