@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 23/11/2026 alle 17:55 UTC_
+_Generata automaticamente il 24/11/2026 alle 17:27 UTC_
 
 ---
 
-### 1. Ukraine responsible for drone strikes on two Russian ships off Libya, Zelenskyy says
-- **Fonti che ne parlano:** Al Jazeera, BBC World, DW (Deutsche Welle), Euronews, France24, The Guardian World
+### 1. Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle), Euronews, France24
+- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss)
+
+### 2. Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say
+- **Fonti che ne parlano:** Al Jazeera, BBC World, Euronews, France24
+- **Link:** [France24](https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say)
+
+### 3. Iranian singer and four others receive lashes after performance without hijab
+- **Fonti che ne parlano:** BBC World, Euronews, New York Times World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab)
+
+### 4. Pope Francis diaries recount spiritual crisis, him seeing the 'Devil'
+- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle), New York Times World
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/pope-francis-diaries-recount-spiritual-crisis-him-seeing-the-devil/a-80033224?maca=en-rss-en-all-1573-rdf)
+
+### 5. Ukraine responsible for drone strikes on two Russian ships off Libya, Zelenskyy says
+- **Fonti che ne parlano:** BBC World, Euronews, The Guardian World
 - **Link:** [Euronews](https://www.euronews.com/2026/11/23/un-mission-in-libya-urges-probe-after-russian-ship-hit-by-drones-off-benghazi)
 
-### 2. South Korea’s education minister resigns after backlash over AI exam cheating rules
-- **Fonti che ne parlano:** BBC World, Euronews, New York Times World, The Guardian World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules)
+### 6. 2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home
+- **Fonti che ne parlano:** Al Jazeera, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html)
 
-### 3. Jensen Huang returns as NVIDIA CEO after intelligence scandal
-- **Fonti che ne parlano:** Al Jazeera, France24, The Guardian World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss)
+### 7. 'Tis the season to be green: Can the Christmas holidays be a present for the planet?
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/entre-nous/20261124-tis-the-season-to-be-green-can-the-christmas-holidays-be-a-present-for-the-planet)
 
-### 4. Russian warship sinks in Benghazi after suspected Ukrainian drone attack
-- **Fonti che ne parlano:** Al Jazeera, BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya)
+### 8. More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals
+- **Fonti che ne parlano:** Euronews, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data)
 
-### 5. The rise and fall and rise again of Jensen Huang
-- **Fonti che ne parlano:** Al Jazeera, BBC World, France24
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
+### 9. Five women killed every hour globally by partner, relative last year: UN
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss)
 
-### 6. At least 24 killed and dozens missing in confectionery factory fire in Indonesia
-- **Fonti che ne parlano:** Al Jazeera, BBC World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)
-
-### 7. 12,000 evacuated from Don Toliver concert after unknown substance sickens fans
+### 10. Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion
 - **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/video/20261123-12-000-evacuated-from-don-toliver-concert-after-unknown-substance-sickens-fans)
+- **Link:** [France24](https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion)
 
-### 8. Why did COP31 climate talks collapse without a deal?
-- **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss)
+### 11. Trump made up to $15m on Nvidia stock after Huang’s return
+- **Fonti che ne parlano:** Al Jazeera, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market)
 
-### 9. Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages
-- **Fonti che ne parlano:** New York Times World, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank)
+### 12. How cautious investors are struggling to avoid the AI bubble
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/how-cautious-investors-are-struggling-to-avoid-the-ai-bubble/a-80016412?maca=en-rss-en-all-1573-rdf)
 
-### 10. COP31 climate deal in doubt after European Union rejects draft
-- **Fonti che ne parlano:** Euronews, New York Times World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/22/new-cop31-draft-deal-tabled-as-countries-scramble-to-salvage-climate-talks)
-
-### 11. Turkish authorities search for lion spotted on outskirts of Istanbul
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/23/turkish-authorities-search-for-lion-spotted-on-outskirts-of-istanbul)
-
-### 12. Behind COP31 failure: A showdown over fossil fuel interests
-- **Fonti che ne parlano:** France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/tv-shows/down-to-earth/20261123-behind-cop31-failure-a-showdown-over-fossil-fuel-interests)
-
-### 13. India pledges €1.4bn to help Nepal rebuild after deadly glacier flood
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/23/india-pledges-14bn-to-help-nepal-rebuild-after-deadly-glacier-flood)
-
-### 14. Iran vows 'every means' to counter US blockade of Hormuz after Trump threat
+### 13. Satellite images show Russian warship capsized in Libya after suspected Ukrainian drone strike
 - **Fonti che ne parlano:** Al Jazeera, Euronews
-- **Link:** [Euronews](https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat)
+- **Link:** [Euronews](https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st)
 
-### 15. Democrats win largest House majority since 1992 after flipping North Carolina seat
+### 14. South Korea tells island residents to take shelter after Russian military aircraft approach
+- **Fonti che ne parlano:** Euronews, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach)
+
+### 15. France: Chefs compete for the world egg mayonnaise championship
+- **Fonti che ne parlano:** Euronews, France24
+- **Link:** [Euronews](https://www.euronews.com/video/2026/11/24/france-chefs-compete-for-the-world-egg-mayonnaise-championship)
+
+### 16. Jensen Huang’s Nvidia return: Who are the big winners and losers?
+- **Fonti che ne parlano:** Al Jazeera, France24
+- **Link:** [Al Jazeera](https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-whore-the-big-winners-and-losers?traffic_source=rss)
+
+### 17. For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing
+- **Fonti che ne parlano:** BBC World, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html)
+
+### 18. Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang
 - **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss)
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss)
 
-### 16. Turkey: Thousands protest closure of critical media outlets
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf)
+### 19. China sentences official to death for spying for foreign country
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets)
 
-### 17. What's next after no deal at COP31 climate talks?
-- **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss)
+### 20. First Lady Melania Trump welcomes this year's White House Christmas tree
+- **Fonti che ne parlano:** BBC World, Euronews
+- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss)
 
-### 18. 'Deeply shocked': Gisèle Pelicot to sue publisher after nude photos used in book campaign
-- **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign)
-
-### 19. How Homeowners Are Powering Vietnam’s E-Bike Surge
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html)
-
-### 20. Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates)
-
-### 21. Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates)
-
-### 22. Tajikistan moves to leave ICC amid US push against court
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss)
-
-### 23. Abolishing Natural England would be travesty, say campaigners
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/environment/2026/nov/23/abolishing-natural-england-would-be-travesty-say-campaigners)
-
-### 24. Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html)
-
-### 25. Rejoining EU without referendum is ‘unthinkable,’ says Andy Burnham
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/rejoining-eu-without-referendum-unthinkable-andy-burnham/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 26. Mamdani says New York will cap ebike fares to ‘significantly’ cut cost of rides
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/23/nyc-ebike-cost-capped-mamdani)
-
-### 27. Cop31 collapses: why did climate talks fall apart? - The Latest
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest)
-
-### 28. Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones
-- **Fonti che ne parlano:** New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html)
-
-### 29. Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe)
-
-### 30. Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner
-- **Fonti che ne parlano:** BBC World
+### 21. Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner
+- **Fonti che ne parlano:** BBC World, The Guardian World
 - **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss)
+
+### 22. Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html)
+
+### 23. La mostra ANSA su Falcone e Borsellino nelle scuole della Valle d'Aosta
+- **Fonti che ne parlano:** ANSA
+- **Link:** [ANSA](https://www.ansa.it/valledaosta/notizie/2026/11/24/la-mostra-ansa-su-falcone-e-borsellino-nelle-scuole-della-valle-daosta_d32f9dfc-046f-4067-a765-7439b1863bd4.html)
+
+### 24. Trump expected to award Giuliani Presidential Medal of Freedom
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom)
+
+### 25. Indonesia names former police chief as treason suspect in presidential wiretapping case
+- **Fonti che ne parlano:** Euronews
+- **Link:** [Euronews](https://www.euronews.com/2026/11/24/indonesia-names-former-police-chief-as-treason-suspect-in-presidential-wiretapping-case)
+
+### 26. After Libya, where will Ukraine strike Russia next?
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss)
+
+### 27. Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War
+- **Fonti che ne parlano:** New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html)
+
+### 28. Le congrès des maires, passage obligé des candidats
+- **Fonti che ne parlano:** Politico Europe
+- **Link:** [Politico Europe](https://www.politico.eu/podcast/playbook-paris-podcast/le-congres-des-maires-passage-oblige-des-candidats/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+
+### 29. Zimbabwean convicted in South Africa of trying to fight in Ukraine
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss)
+
+### 30. World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates)
