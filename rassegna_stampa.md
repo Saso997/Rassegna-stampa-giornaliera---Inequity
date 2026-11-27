@@ -1,125 +1,125 @@
 # Rassegna stampa - Europa e Mondo
 
-_Generata automaticamente il 26/11/2026 alle 16:44 UTC_
+_Generata automaticamente il 27/11/2026 alle 16:30 UTC_
 
 ---
 
-### 1. 🔴 French actor Gérard Depardieu to face trial for alleged rape of actress Charlotte Arnould
-- **Fonti che ne parlano:** BBC World, France24, New York Times World
-- **Link:** [France24](https://www.france24.com/en/france/20261126-french-actor-g%C3%A9rard-depardieu-to-face-trial-for-rape-his-lawyer-says)
+### 1. Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols
+- **Fonti che ne parlano:** Al Jazeera, BBC World, The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols)
 
-### 2. Italy says two citizens killed in Iranian strike in Kuwait
-- **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss)
-
-### 3. Flames and thick smoke billow from Bangkok oil facility after massive explosion
-- **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [Euronews](https://www.euronews.com/video/2026/11/26/flames-and-thick-smoke-billow-from-bangkok-oil-facility-after-massive-explosion)
-
-### 4. Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss)
-
-### 5. Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one
-- **Fonti che ne parlano:** Al Jazeera, BBC World
-- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss)
-
-### 6. Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?
-- **Fonti che ne parlano:** DW (Deutsche Welle), France24
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf)
-
-### 7. FIFA says a cyberattack against it targeted a 'limited set of personal and business information'
+### 2. Serbia's Student List runs chemistry professor Radomir Saicic for president
 - **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-all-1573-rdf)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700?maca=en-rss-en-all-1573-rdf)
 
-### 8. Crew member dies after diesel tanker sinks off Ibiza coast
-- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-rdf)
+### 3. Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-all-1573-rdf)
 
-### 9. Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu
+### 4. Marching bands scramble to cover costs after Thanksgiving parade rearranged
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss)
+
+### 5. With new law, Iraq sees rise in child marriage, custody battles
+- **Fonti che ne parlano:** DW (Deutsche Welle), France24
+- **Link:** [France24](https://www.france24.com/en/tv-shows/focus/20261127-with-new-law-iraq-sees-rise-in-child-marriage-custody-battles)
+
+### 6. Why did Georgian police clash with Turkish football fans over Palestine?
+- **Fonti che ne parlano:** Al Jazeera, DW (Deutsche Welle)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss)
+
+### 7. Ukraine's Heraskevych hails EU pushback against Russian athletes
+- **Fonti che ne parlano:** DW (Deutsche Welle), Politico Europe
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/ukraine-s-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375?maca=en-rss-en-all-1573-rdf)
+
+### 8. Thanksgiving storms flood US coasts and disrupt holiday travel
+- **Fonti che ne parlano:** Euronews, France24
+- **Link:** [Euronews](https://www.euronews.com/2026/11/26/thanksgiving-storms-flood-us-coasts-and-disrupt-holiday-travel)
+
+### 9. Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say
+- **Fonti che ne parlano:** France24, New York Times World
+- **Link:** [New York Times World](https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html)
+
+### 10. Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'
+- **Fonti che ne parlano:** BBC World, The Guardian World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss)
+
+### 11. EU leaders split over budget spending and a $49 billion loan to Ukraine
+- **Fonti che ne parlano:** BBC World, France24
+- **Link:** [France24](https://www.france24.com/en/video/20261127-eu-leaders-split-over-budget-spending-and-a-49-billion-loan-to-ukraine)
+
+### 12. Why is India so afraid of Pakistan's new Netflix series?
+- **Fonti che ne parlano:** France24, New York Times World
+- **Link:** [France24](https://www.france24.com/en/tv-shows/press-review/20261127-why-is-india-so-afraid-of-pakistan-s-new-netflix-series)
+
+### 13. New Zealand election: final results show ruling coalition needs minor party to govern
+- **Fonti che ne parlano:** DW (Deutsche Welle), The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results)
+
+### 14. Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu
 - **Fonti che ne parlano:** Euronews, New York Times World
 - **Link:** [New York Times World](https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html)
 
-### 10. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
-- **Fonti che ne parlano:** BBC World, DW (Deutsche Welle)
-- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
+### 15. Trial of Berlin woman accused of spying for Russia begins after delay
+- **Fonti che ne parlano:** DW (Deutsche Welle), New York Times World
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677?maca=en-rss-en-all-1573-rdf)
 
-### 11. At least 31 killed as fuel tanker crash ignites large fire on Cairo highway
-- **Fonti che ne parlano:** Euronews, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway)
+### 16. Hong Kong mourns victims of deadly Wang Fuk Court fire one year on
+- **Fonti che ne parlano:** Euronews, New York Times World
+- **Link:** [Euronews](https://www.euronews.com/video/2026/11/26/hong-kong-mourns-victims-of-deadly-wang-fuk-court-fire-one-year-on)
 
-### 12. Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities
+### 17. Flames and thick smoke billow from Bangkok oil facility after massive explosion
 - **Fonti che ne parlano:** BBC World, Euronews
-- **Link:** [BBC World](https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss)
+- **Link:** [Euronews](https://www.euronews.com/video/2026/11/26/flames-and-thick-smoke-billow-from-bangkok-oil-facility-after-massive-explosion)
 
-### 13. Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes
-- **Fonti che ne parlano:** BBC World, New York Times World
-- **Link:** [New York Times World](https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html)
+### 18. Crew member dies after diesel tanker sinks off Ibiza coast
+- **Fonti che ne parlano:** DW (Deutsche Welle), Euronews
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-rdf)
 
-### 14. All hostages rescued after Colombian security forces storm supermarket, police say
-- **Fonti che ne parlano:** Euronews, The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
-
-### 15. China sends first foreign astronaut to its space station as Pakistani joins Shenzhou 24 crew
-- **Fonti che ne parlano:** Euronews, The Guardian World
-- **Link:** [Euronews](https://www.euronews.com/2026/11/25/china-sends-first-foreign-astronaut-to-its-space-station-as-pakistani-joins-shenzhou-24-cr)
-
-### 16. Salvini: 'In manovra una norma sul condono, la stiamo costruendo con i comuni'
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/politica/2026/11/26/salvini-in-manovra-una-norma-sul-condono-la-stiamo-costruendo-con-i-comuni_6c4a993a-9e13-463d-b930-9be3df31a000.html)
-
-### 17. Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates)
-
-### 18. Due tecnici italiani della Rheinmetall morti in un attacco in Kuwait
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html)
-
-### 19. Spanish economist to become new European Central Bank chief
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss)
-
-### 20. Gb chiede a 100 mila riservisti di tenersi pronti in caso di guerra
-- **Fonti che ne parlano:** ANSA
-- **Link:** [ANSA](https://www.ansa.it/sito/notizie/mondo/2026/11/26/gb-chiede-a-100-mila-riservisti-di-tenersi-pronti-in-caso-di-guerra_4e4aae73-a28f-4ae1-aab9-4016fcf8b2fb.html)
-
-### 21. Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps)
-
-### 22. Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-rdf)
-
-### 23. Sweden’s Kristersson edges closer to new term as prime minister
-- **Fonti che ne parlano:** Politico Europe
-- **Link:** [Politico Europe](https://www.politico.eu/article/sweden-kristersson-edges-closer-new-term-prime-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-### 24. Georgia judge blocks own order to turn over US election ballot copies to state board
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized)
-
-### 25. In California, exceptional tides and nearly 9m-high waves batter the coast
+### 19. With Spain’s far right on the cusp of power, can women bail Sanchez out once again?
 - **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/video/20261126-in-california-exceptional-tides-and-nearly-9m-high-waves-batter-the-coast)
+- **Link:** [France24](https://www.france24.com/en/europe/20261127-spain-far-right-vox-at-the-gates-can-women-bail-out-sanchez-once-again)
 
-### 26. Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened
-- **Fonti che ne parlano:** The Guardian World
-- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates)
-
-### 27. Germany: IG Metall union says deal reached with employers
-- **Fonti che ne parlano:** DW (Deutsche Welle)
-- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-rdf)
-
-### 28. Why is France roiling?
-- **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss)
-
-### 29. Spanish economist de Cos to succeed Lagarde as head of ECB
+### 20. Nigeria: Political violence and attacks on candidates raise fears ahead of January elections
 - **Fonti che ne parlano:** France24
-- **Link:** [France24](https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb)
+- **Link:** [France24](https://www.france24.com/en/video/20261127-nigeria-political-violence-and-attacks-on-candidates-raise-fears-ahead-of-january-elections)
 
-### 30. Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS
+### 21. Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates)
+
+### 22. Eastern US recovers from storms that snarled Thanksgiving travel as flooding continues
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving)
+
+### 23. Kanal-Centre Pompidou: Brussels' most anticipated new museum opens its doors
+- **Fonti che ne parlano:** DW (Deutsche Welle)
+- **Link:** [DW (Deutsche Welle)](https://www.dw.com/en/kanal-centre-pompidou-brussels-most-anticipated-new-museum-opens-its-doors/a-80001444?maca=en-rss-en-all-1573-rdf)
+
+### 24. UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates)
+
+### 25. Trump backs Iraqi PM’s oil smuggling crackdown
 - **Fonti che ne parlano:** Al Jazeera
-- **Link:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss)
+- **Link:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss)
+
+### 26. Kenyan doomsday cult leader convicted over further 123 deaths
+- **Fonti che ne parlano:** BBC World
+- **Link:** [BBC World](https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss)
+
+### 27. Student movement in France: "The situation has varied greatly from one school to another"
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/video/20261127-student-movement-in-france-the-situation-has-varied-greatly-from-one-school-to-another)
+
+### 28. Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’
+- **Fonti che ne parlano:** Al Jazeera
+- **Link:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss)
+
+### 29. Bulgarian fans injured after clashes between supporters at Marseille-Levski game in Europa League
+- **Fonti che ne parlano:** France24
+- **Link:** [France24](https://www.france24.com/en/video/20261127-bulgarian-fans-injured-after-clashes-between-supporters-at-marseille-levski-game-in-europa-league)
+
+### 30. British Gas owner seeks urgent government talks over future of storage facility
+- **Fonti che ne parlano:** The Guardian World
+- **Link:** [The Guardian World](https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future)
